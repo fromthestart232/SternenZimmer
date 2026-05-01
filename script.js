@@ -94,6 +94,12 @@ document.body.addEventListener("click", (e) => {
     currentStep++;
     steps[currentStep].classList.add("show");
     createHeartParticles(e.clientX, e.clientY);
+  } else {
+    // Nach dem letzten Schritt, öffne die finale Seite nur wenn nicht schon auf final.html
+    if (!window.location.pathname.includes('final.html')) {
+      window.location.href = 'final.html';
+    }
+    // Auf final.html passiert nichts weiter
   }
 });
 
