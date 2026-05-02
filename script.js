@@ -164,9 +164,35 @@ Eine Sache noch.
 Ich vermisse dich sehr.
 `, 3),
   createPage("Seite 3", `
-Dein erster Satz.
-Dein zweiter Satz.
-Dein dritter Satz.
+Neuer Tag, gleiche Seite. Oder zumindest fühlt es sich so an.
+Heute war es erstaunlich warm. So ein Tag, bei dem man eigentlich gute Laune haben müsste. Blauer Himmel, Sonne, alles wirkt irgendwie lebendiger. Ich glaube, viele würden sagen, dass es perfektes Wetter war. Für mich war es ein kleines bisschen zu viel davon. Zu warm, zu hell, zu… präsent. Schwer zu beschreiben. Vielleicht passt man sich einfach nicht immer dem an, was als „schön“ gilt.
+Ich war trotzdem draußen. Ein bisschen zumindest. Man will sich ja nicht komplett dagegen sträuben. Und irgendwo hat es sich auch gut angefühlt. Diese Ruhe, die gleichzeitig gar keine ist, weil überall irgendetwas passiert. Menschen, Stimmen, Bewegung. Und ich mittendrin, aber irgendwie auch nicht so richtig.
+Ich habe heute öfter aufs Handy geschaut als ich zugeben will. Eigentlich ohne Grund. Oder zumindest ohne einen guten Grund. Es ist eher so ein Automatismus geworden. Man entsperrt es, schaut kurz, macht es wieder aus und weiß im selben Moment schon, dass sich nichts verändert hat.
+Naja. Nicht ganz nichts.
+Ich bin vorhin über deinen Snap gestolpert. Ich weiß nicht warum genau ich ihn nochmal geöffnet habe. Vielleicht aus Gewohnheit, vielleicht aus Neugier, vielleicht auch einfach, weil ich es wollte. Wahrscheinlich letzteres.
+Und ja… ich habe ihn mehr als einmal angesehen.
+Irgendwie dumm, oder? So ein kurzer Moment, ein Bild, und man bleibt trotzdem hängen. Als hätte man Angst, irgendetwas zu übersehen, obwohl man ganz genau weiß, dass da nichts Neues dazukommt, egal wie oft man es anschaut.
+Aber manche Dinge schaut man sich eben nicht an, um etwas Neues zu sehen.
+Sondern einfach, weil sie… schön sind.
+Und vielleicht auch, weil man sich für einen kurzen Moment wieder daran erinnert, wie sich etwas angefühlt hat, ohne dass sich eigentlich etwas verändert hat.
+Ich merke gerade, wie ich versuche das irgendwie anders zu formulieren, damit es nicht so direkt klingt. Hat noch nie wirklich funktioniert.
+Ist aber auch egal.
+Ich schweife schon wieder ab.
+Eigentlich wollte ich nur sagen, dass das Wetter schön war, auch wenn es mir persönlich ein bisschen zu warm war. Klingt banal, oder? Aber irgendwie fühlt sich selbst so ein einfacher Satz heute komplizierter an, als er sein sollte.
+Vielleicht liegt es daran, dass solche Tage früher anders waren. Oder sich zumindest anders angefühlt haben.
+Ich habe mich heute dabei erwischt, wie ich einfach irgendwo saß und nichts gemacht habe. Kein Handy, keine Musik, nichts. Einfach nur da. Früher hätte mich das verrückt gemacht. Heute fühlt es sich eher… notwendig an. Auch wenn ich nicht genau sagen kann, wofür.
+Vielleicht um Gedanken zu sortieren. Oder um zu merken, dass sie sich sowieso nicht wirklich sortieren lassen.
+Ich glaube, genau das ist es. Dieses Gefühl, dass man denkt, man müsste nur lange genug über etwas nachdenken, dann ergibt es irgendwann Sinn. Tut es aber nicht. Es wird nur… ruhiger vielleicht. Oder man gewöhnt sich einfach daran, dass nicht alles eine klare Antwort hat.
+Komisch eigentlich.
+Ich frage mich, ob du heute auch draußen warst. Ob du die Sonne genauso wahrgenommen hast oder ob sie für dich einfach nur da war. Ob du dich darüber gefreut hast oder ob es dir vielleicht auch ein kleines bisschen zu warm war.
+Ich merke, dass ich wieder anfange Fragen zu stellen, auf die ich keine Antwort bekomme.
+Hat sich wohl auch nicht geändert.
+Der Tag war eigentlich unspektakulär. Und trotzdem fühlt er sich nicht ganz leer an. Vielleicht sind es genau diese kleinen Dinge, die einen Tag irgendwie füllen, ohne dass man sie wirklich greifen kann.
+Oder ich rede mir das nur ein.
+Ich glaube, ich lasse es für heute dabei. Nicht, weil ich nichts mehr zu sagen hätte, sondern eher, weil ich nicht weiß, wie ich es sagen soll.
+Aber das kennst du ja schon.
+Irgendwie ist der Text heute ziemlich kurz geworden, wobei doch so viel passiert ist.
+
 `, null)
 ];
 
