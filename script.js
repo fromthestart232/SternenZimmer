@@ -193,6 +193,45 @@ Ich glaube, ich lasse es für heute dabei. Nicht, weil ich nichts mehr zu sagen 
 Aber das kennst du ja schon.
 Irgendwie ist der Text heute ziemlich kurz geworden, wobei doch so viel passiert ist.
 
+`, 4),
+  createPage("Seite 4", `
+Ich hasse Sonntage.
+Oder zumindest habe ich sie bisher immer gehasst. Es ist wie die Ruhe vor dem Sturm. Wie soll man Ruhe finden, wenn man den nächsten Tag schon vor Augen hat?
+Seitdem die Schule vorbei ist sind alle Tage irgendwie gleich, nur Sonntag nicht. Ich wusste heute früh überghaupt nicht, dass Sonntag ist, aber ein Blick aufs Handy hat es mir dann verraten.
+Es ist so ein komisches Gefühl, wenn die Routine der letzten 12 Jahre einfach auseinanderfällt.
+Dieser Sonntag war irgendwie seltsam. Er war nicht gut, aber auch nicht schlecht.
+Ich habe den ganzen Tag heute damit verbracht, mich zu hinterfragen.
+Alle sagen immer "Wo ein Wille ist, ist auch ein Weg", aber was ist, wenn der Wille da ist, aber kein Weg? Oder habe nur ich den Weg nicht gefunden?
+Nein, auch ich habe einen Weg gesehen. Bin ich ein schlechter Mensch, weil ich diesen Weg nicht gegangen bin? 
+Man sollte natürlich seine Ziele nicht aus den Augen verlieren, und sich selbst an erste Stelle stellen, aber ich fühle mich furchtbar egoistisch und feige. 
+Es war wohl wieder der Weg mit dem geringsten Widerstand und ich habe mich dafür sogar bewusst gegen meinen eigenen Willen entschieden. 
+Normalerweise würde ich nun sagen "Es tut mir leid", aber wie kann ich mich so selbstverständlich für mein eigenes bewusstes Versagen entschuldigen? 
+Ich habe das Gefühl, dass ich mich selbst nicht mehr verstehen kann. Es ist, als würde ich mich in einem Spiegel betrachten, aber das Spiegelbild ist verzerrt und bewegt sich nicht so, wie ich es tue. Es ist frustrierend und beängstigend zugleich.
+Man wächst mit seinen Aufgaben, aber wie soll man wachsen wenn man vor jeder Aufgabe zurückschreckt? Dafür hasse ich mich ein bisschen mehr.
+Keiner ist perfekt, aber das hier ist nicht mal mehr akzeptabel. Es ist einfach nur enttäuschend.
+Was hat mich aber überhaupt davon abgehalten den Weg zu gehen, den ich eigentlich gehen wollte?
+Ist es die Angst vor dem Unbekannten? Die Angst vor dem Scheitern? Nein, es ist der Gedanke: "Was sollen nur die anderen denken?".
+Darüber hatten wir auch schon gesprochen. Vielleicht erinnerst du dich noch daran.
+Man will seinen eigenen Weg gehen, aber gleichzeitig wartet man irgendwie auf Zustimmung von Menschen, die mit diesem Weg überhaupt nichts zu tun haben.
+Ich habe heute lange darüber nachgedacht, ob ich mir das nur einrede, um mein eigenes Verhalten zu rechtfertigen.
+Wäre zumindest einfacher.
+Dann hätte ich eine Ausrede.
+Aber ich glaube nicht, dass es so einfach ist.
+Es ist eher so ein Mix aus allem. Ein bisschen Angst, ein bisschen Unsicherheit und ein bisschen… Bequemlichkeit vielleicht.
+Klingt hart, aber wahrscheinlich trifft es das ganz gut.
+Ich frage mich, ob du das nachvollziehen kannst oder ob das für dich immer klarer war als für mich.
+Du wirkst zumindest wie jemand, der weiß, was er will und es dann auch durchzieht.
+Vielleicht täusche ich mich da auch.
+Ich habe heute auch wieder gemerkt, wie schnell man sich selbst verurteilt.
+Viel schneller, als man es bei anderen tun würde.
+Bei anderen findet man immer Gründe, Verständnis, Ausnahmen.
+Bei sich selbst irgendwie nicht.
+Ich glaube, ich habe mich heute selbst genug zerlegt.
+Bringt am Ende wahrscheinlich auch nichts.
+Aber es fühlt sich so an, als müsste man da einmal durch.
+Ich hoffe, dein Sonntag war… besser als meiner.
+Oder zumindest weniger anstrengend im Kopf.
+Bis irgendwann.
 `, null)
 ];
 
@@ -282,6 +321,9 @@ function renderPage(index) {
     p.textContent = text;
     envelope.appendChild(p);
   });
+
+  const pageNumberEl = document.getElementById("page-number");
+  pageNumberEl.textContent = `${currentPageIndex} / ${pages.length}`;
 
   if (page.nextPage) {
     skipBtn.textContent = page.skipLabel || "Zur nächsten Seite";

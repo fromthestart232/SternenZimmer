@@ -98,9 +98,16 @@ canvas {
   right: 0;
   z-index: 3;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   padding: 0 16px;
   pointer-events: none;
+}
+
+.page-number {
+  font-size: 1rem;
+  opacity: 0.8;
+  margin: 0;
+  color: #fff;
 }
 
 .skip {
