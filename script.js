@@ -46,7 +46,7 @@ Irgendwie fühlt sich das hier gerade gut an, obwohl ich überhaupt noch nichts 
 Vielleicht sieht er mir zu. Er würde es sich bestimmt anhören.
 Was rede ich? Ich weiß es auch nicht.
 Ich erinnere mich oft daran, dass du mir sagtest, ich solle ein Buch schreiben.
-Mir wird gerade bewusst, dass ich es liebe zu schreiben, aber ich glaube ich könnte kein gutes Buch schreiben, welches dann auch eine richtige Handlung aufweisen würde. Ich bekomme es gerade einmal hin diese zusammhangslosen Gedanken zu formulieren.
+Mir wird gerade bewusst, dass ich es liebe zu schreiben, aber ich glaube ich könnte kein gutes Buch schreiben, welches dann auch eine richtige Handlung aufweisen würde. Ich bekomme es gerade einmal hin diese zusammenhangslosen Gedanken zu formulieren.
 Selbst wenn ich hier einfach mal so für mich schreibe, merke ich, dass ich es nicht schaffe das zu sagen, was ich wirklich sagen möchte.
 Es ist unfassbar schwer etwas zu vergessen, was man jeden Tag erlebt und eigentlich auch überhaupt nicht vergessen will.
 Es sind die kleinen Dinge, die mich jeden Tag zerreißen.
@@ -62,17 +62,17 @@ Er steht noch immer hier, aber ist nur im Code sichtbar.
 Ich habe ihn bestimmt 5mal gelesen und konnte ihn nicht löschen.
 Eins hat sich nicht geändert. Ich finde meine Handschrift immer noch furchtbar, auch wenn du sagtest, dass sie es nicht sei.
 Ich glaube der QR-Code zu dieser Seite lag in dem Buch. Hast du es noch gelesen?
-Mit wem rede ich? Vieleicht sollte ich mir einen Therapeuten suchen.
+Mit wem rede ich? Vielleicht sollte ich mir einen Therapeuten suchen.
 Manchmal erinnere ich mich daran, wie du mir erzählt hast, dass du für, ich glaube es war Hugo, auf die Schnelle nichts zum Geburtstag gefunden hast und dann ein Buch aus deinem Schrank verschenkt hast.
 Ich kann es nicht beeinflussen, aber ich hoffe, dass du dieses Buch nicht verschenkst.
-Ich schweife schon wieder ab. Als ich gerade erneut zum Mond blickte, stohl ein Feuerwerkskörper meine Aufmerksamkeit.
+Ich schweife schon wieder ab. Als ich gerade erneut zum Mond blickte, stahl ein Feuerwerkskörper meine Aufmerksamkeit.
 Da heute Abend an vielen Orten der Tanz in den Mai gefeiert wird erscheint es mir nur logisch dies mit Feuerwerk zu begleiten.
 Darum geht es mir aber überhaupt nicht. Ich musste, wie so oft, an Silvester denken.
 Eigentlich war Silvester nie etwas wirklich besonderes für mich. Es war nur ein schlechter Grund um sich mit Freunden oder in meinem Fall eher mit Bekannten zu betrinken und unverantwortlich mit Feuer zu spielen.
 Die nächsten Jahresumbrüche werden vermutlich auch genau wie beschrieben, vielleicht auch alleine. Mal sehen.
 Aber letztes Silvester war anders.
 Ich führe das an dieser Stelle nicht weiter aus. Ich möchte mich einfach nur für diese Zeit bedanken.
-Ich hab heute Erfahren, dass wir zur Hausbesichtigung von Manuela und Danny in eurem ehemaligen Haus eingeladen wurden.
+Ich hab heute erfahren, dass wir zur Hausbesichtigung von Manuela und Danny in eurem ehemaligen Haus eingeladen wurden.
 Lustiger Zufall, nicht?
 Manchmal weiß ich nicht, ob ich lachen oder weinen soll.
 Wir hatten mal über Vergänglichkeit gesprochen. Vielleicht erinnerst du dich noch daran.
@@ -89,12 +89,12 @@ Ich habe weggeschaut und dieses Problem ignoriert. Ich hatte in dir etwas, was w
 Im Nachhinein war dieses Verhalten ziemlich egoistisch und unfair.
 Deine letzte Nachricht hat mit "Ich hoffe du hasst mich nicht" geendet. Warum sollte ich dich hassen?
 Du hast nur das ausgesprochen, was wir beide nicht sehen wollten.
-Du hast in deiner Nachricht auch geschrieben, dass alles was du sagst sich "feige" und "unfair" anfühlt und das es an dir liegt.
+Du hast in deiner Nachricht auch geschrieben, dass alles was du sagst sich "feige" und "unfair" anfühlt und dass es an dir liegt.
 Zu schreiben, was wir beide ignoriert haben ist in meinen Augen überhaupt nicht feige und unfair. Ich denke auch nicht, dass es an dir liegt. Für unsere Situationen kannst du überhaupt nichts.
 Bitte gib dir keine Schuld.
 Eigentlich ist da noch so viel, was ich sagen will, aber ich weiß nicht so ganz wie ich mich ausdrücken soll.
 Komische Art seine Gedanken zu formulieren. Ganz ohne roten Faden, aber ist jetzt auch egal.
-Eine Sache noch. Meine kleine Schwester schaut aktuell eine Serie und die Haupfigur heißt "Elena".
+Eine Sache noch. Meine kleine Schwester schaut aktuell eine Serie und die Hauptfigur heißt "Elena".
 Ein schöner Name. Ich hoffe ich erinnere mich korrekt.
 Ich hoffe es geht dir gut und natürlich auch allen anderen die das lesen.
 Ist wohl eher zu einem Selbstgespräch geworden, aber es hat sich irgendwie befreiend angefühlt.
@@ -112,7 +112,7 @@ Vielleicht nehme ich mir später doch etwas Zeit um ein paar Details einzubauen.
 Ich schreibe schon wieder nur Quatsch und bin kurz davor zu vergessen, was ich eigentlich sagen wollte.
 Beim Lesen ist mir aufgefallen, dass es gestern eher ein offener Dialog war. Als würde man mit dem Leser sprechen.
 Ich frage mich wie das aus der Perspektive eines Lesers wirkt.
-Ich hätte nie gedacht, dass ich so was einmal machen würde. Ich könnte gerade einfach Alles machen, aber ich sitze hier und schreibe.
+Ich hätte nie gedacht, dass ich so was einmal machen würde. Ich könnte gerade einfach alles machen, aber ich sitze hier und schreibe.
 Die Dinge die ich normalerweise machen würde, sind gerade irgendwie langweilig. Aber warum?
 Ich bin auch in letzter Zeit ziemlich müde. Nicht die Art von Müdigkeit, die nach einem Mittagsschlaf wieder weg ist. Eine seltsame Art von Lustlosigkeit.
 Ich bin mir sicher, dass jeder dieses Gefühl kennt.
@@ -124,13 +124,13 @@ Seltsame Redewendung, wenn man bedenkt, dass es um Klamotten geht.
 Lange nach dem Kauf eines Anzugs und auch noch jetzt beschäftigen mich seine finalen Worte.
 Warum genau hatte er das gesagt? War das Zufall? Sagt er das immer?
 Vielleicht sah er es mir an, oder ich habe es verraten, als er mich nach der Farbe der Fliege fragte und ich ihm sagte, dass es egal sei.
-Jedoch behielt er recht. Ich habe einen schöneren Anzug gekauft, aber ist die Wirkung nach außen alles was zählt?
+Jedoch behielt er recht. Ich habe einen schöneren Anzug gekauft, aber ist die Wirkung nach außen alles, was zählt?
 Er mag schön sein, aber wie trägt er sich? Ist das Material angenehm? Fühlt man sich wohl darin?
 Er sollte also seine Redewendung überdenken. Er könnte es mit positiven Eigenschaften erweitern, die nicht nur oberflächlich sind.
 Ein Anzug kann noch so schön sein, aber was wenn er einfach nicht passt?
 Ich glaube mein Punkt ist klar.
 Davon abgesehen war ich sehr fasziniert von der Art, wie er mir versuchte zu helfen und genauer zu erklären worauf ich beim Kauf achten soll.
-Es gibt nichts schöneres als Menschen, die sich in ihrem Beruf voll entfalten können.
+Es gibt nichts Schöneres als Menschen, die sich in ihrem Beruf voll entfalten können.
 Ich frage mich auf wie viel Prozent der Menschen das zutrifft. Vielleicht sind es so 5%.
 Ich vermute, dass ein Großteil dieser 5% im sozialen Sektor tätig ist.
 Irgendwie fand ich die Dialogvariante auf der ersten "Seite" besser. Das wirkt hier irgendwie super langweilig.
@@ -197,7 +197,7 @@ Irgendwie ist der Text heute ziemlich kurz geworden, wobei doch so viel passiert
   createPage("Seite 4", `
 Ich hasse Sonntage.
 Oder zumindest habe ich sie bisher immer gehasst. Es ist wie die Ruhe vor dem Sturm. Wie soll man Ruhe finden, wenn man den nächsten Tag schon vor Augen hat?
-Seitdem die Schule vorbei ist sind alle Tage irgendwie gleich, nur Sonntag nicht. Ich wusste heute früh überghaupt nicht, dass Sonntag ist, aber ein Blick aufs Handy hat es mir dann verraten.
+Seitdem die Schule vorbei ist sind alle Tage irgendwie gleich, nur Sonntag nicht. Ich wusste heute früh überhaupt nicht, dass Sonntag ist, aber ein Blick aufs Handy hat es mir dann verraten.
 Es ist so ein komisches Gefühl, wenn die Routine der letzten 12 Jahre einfach auseinanderfällt.
 Dieser Sonntag war irgendwie seltsam. Er war nicht gut, aber auch nicht schlecht.
 Ich habe den ganzen Tag heute damit verbracht, mich zu hinterfragen.
@@ -232,6 +232,56 @@ Aber es fühlt sich so an, als müsste man da einmal durch.
 Ich hoffe, dein Sonntag war… besser als meiner.
 Oder zumindest weniger anstrengend im Kopf.
 Bis irgendwann.
+`, 5),
+  createPage("Seite 5", `
+Perfektion.
+Ein Zustand, den jeder anstrebt, aber niemand wirklich erreicht. 
+Wie als würde man versuchen den Horizont zu erreichen.
+Manche sehen Perfektion genau in den Dingen, die nicht perfekt sind. 
+Ist das der einfache Weg? Man hält absolute Perfektion für unerreichbar und nennt das absolute Gegenstück Perfektion?
+Das ist wohl der einzige Weg, wenn man Perfektion für unmöglich hält.
+Aber was wenn Perfektion doch möglich ist? 
+Wenn man den Begriff googelt, findet man schnell das Wort "fehlerlos".
+Jeder macht Fehler, oder? 
+Was wenn alle Fehler nur Folgen eines Ereignisses sind, an welchem man keine Schuld trägt?
+Ist Jemand ein schlechter Fahrer, wenn er in einen Unfall gerät, weil andere Verkehrsteilnehmer Fehler machen? Nein, er ist einfach nur zur falschen Zeit am falschen Ort.
+Der Fahrer wird nach diesem Unfall sehr viel vorsichtiger fahren, oder sogar eine Zeit lang das Auto meiden, aber etwas in ihm verändert sich, auch wenn ihn keine Schuld trifft. 
+Das Beispiel ist vielleicht etwas holprig, aber ich glaube, dass es meinen Punkt ganz gut verdeutlicht.
+Wird einem, wenn es sie gab, diese Perfektion genommen, durch Szenarien wie diese? Nein, aber sie ist nicht mehr so offensichtlich.
+Wie eine Geode die von außen unscheinbar aussieht, aber innen voller funkelnder Kristalle ist.
+Das ist natürlich nur meine persönliche Sichtweise.
+Aber diese Sichtweise ist eigentlich viel zu optimistisch für mich.
+Wieso also denke ich so? 
+Vielleicht, weil es einfacher ist, an so etwas zu glauben, als das Gegenteil zu akzeptieren.
+Die Vorstellung, dass etwas in einem kaputt ist und auch kaputt bleibt, ist schwerer zu ertragen, als zu sagen, dass es nur verdeckt ist. Dass es noch da ist, nur nicht mehr sichtbar.
+Vielleicht rede ich mir das auch nur ein.
+Aber wenn ich ehrlich bin, fühlt es sich richtiger an.
+Es würde bedeuten, dass Fehler einen nicht definieren. Dass sie nur… passieren. Wie in dem Beispiel. Zur falschen Zeit am falschen Ort. Und trotzdem nimmt man etwas davon mit, ob man will oder nicht.
+Man verändert sich.
+Nicht unbedingt zum Schlechteren, aber auch nicht so, dass man es direkt als Verbesserung erkennen würde.
+Eher subtil.
+So, dass man es selbst kaum merkt, aber irgendwann feststellt, dass man nicht mehr ganz der Mensch ist, der man mal war.
+Und genau da wird es schwierig mit der Perfektion.
+Weil man anfängt, sich an dieser veränderten Version zu messen, ohne genau zu wissen, was eigentlich der Maßstab ist.
+Vielleicht war man nie perfekt.
+Vielleicht kommt man diesem Zustand nur in einzelnen Momenten nah, ohne es zu realisieren.
+Und im Nachhinein wirken genau diese Momente dann… perfekt.
+Obwohl sie es wahrscheinlich gar nicht waren.
+Ich glaube, Perfektion ist nichts Festes.
+Kein Zustand, den man erreicht und dann behält.
+Eher etwas, das man für einen kurzen Augenblick spürt.
+Und erst viel später versteht.
+Vielleicht ist genau das der Grund, warum ich an diese Geode denken musste.
+Weil sie von außen nicht zeigt, was in ihr steckt.
+Und vielleicht ist das bei Menschen genauso.
+Nicht alles, was nicht perfekt aussieht, ist es auch nicht.
+Und nicht alles, was perfekt wirkt, ist es wirklich.
+Ich weiß nicht, ob das Sinn ergibt.
+Aber es fühlt sich zumindest so an.
+Und vielleicht… geht es bei Perfektion auch gar nicht darum, sie festzuhalten oder zu definieren.
+Sondern einfach darum, sie zu erkennen, wenn man ihr begegnet.
+Ich glaube, ich durfte Perfektion erleben.
+Danke.
 `, null)
 ];
 
