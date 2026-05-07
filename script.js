@@ -282,6 +282,48 @@ Und vielleicht… geht es bei Perfektion auch gar nicht darum, sie festzuhalten 
 Sondern einfach darum, sie zu erkennen, wenn man ihr begegnet.
 Ich glaube, ich durfte Perfektion erleben.
 Danke.
+`, 6),
+  createPage("Seite 6", `
+Warum? 
+Das ist aktuell die Frage, die ich mir am häufigsten stelle, aber warum?
+Vielleicht, weil man immer einen Grund für alles finden möchte. Eine Erklärung, damit Dinge irgendwie mehr Sinn ergeben.
+Aber was, wenn es manchmal einfach keinen guten Grund gibt?
+Oder schlimmer noch: Wenn man den Grund kennt, ihn nachvollziehen kann, aber trotzdem nichts dagegen tun kann. Oder so ähnlich.
+Ich glaube genau das beschäftigt mich in letzter Zeit so sehr.
+Dieses Gefühl, dass man seine eigenen Gedanken zwar hört, aber trotzdem nicht wirklich versteht. Als würde jemand anderes sie denken und man selbst sitzt nur daneben und hört zu.
+Eigentlich verrückt.
+Man verbringt sein ganzes Leben mit sich selbst und versteht sich am Ende trotzdem nicht vollständig.
+Vielleicht ist genau das der Grund, warum Menschen so viel nachdenken.
+In der Hoffnung, irgendwann auf eine Antwort zu stoßen, die endlich Ruhe gibt.
+Bisher hat das bei mir eher mäßig funktioniert.
+Aber eine meiner Fragen hat sich heute beantwortet, oder besser gesagt hast du sie beantwortet.
+Du hast einen Snap geschickt, in welchem die Katze zu sehen war. Danke. 
+Nur so nebenbei, aber du sahst heute wieder umwerfend aus. Manchmal würde ich es gerne einfach schreiben, aber dann fällt mir wieder ein, dass das nicht geht.
+Vielleicht ist genau das das Komische daran.
+Nicht, dass man etwas denkt.
+Sondern, dass man plötzlich darüber nachdenken muss, ob man es überhaupt sagen darf.
+Früher hätte ich vermutlich einfach geschrieben, dass du wunderschön aussiehst, ohne auch nur eine Sekunde darüber nachzudenken.
+Heute fühlt sich selbst so ein einfacher Satz falsch an.
+Oder zumindest fehl am Platz.
+Nicht, weil er unwahr wäre.
+Eher, weil manche Dinge plötzlich komplizierter werden, obwohl sie sich eigentlich überhaupt nicht verändert haben.
+Ich frage mich manchmal, ab wann genau Worte anfangen vorsichtig zu werden.
+Ab wann man beginnt Sätze im Kopf umzubauen, bevor sie überhaupt ausgesprochen werden.
+Vielleicht genau dann, wenn man Angst davor hat, dass sie anders ankommen könnten als sie gemeint sind.
+Oder wenn man merkt, dass man kein Recht mehr darauf hat, Dinge einfach auszusprechen.
+Keine Ahnung.
+Ich weiß nur, dass ich kurz lächeln musste, als ich die Katze gesehen habe.
+Schon verrückt eigentlich, dass so eine kleine Sache plötzlich Bedeutung bekommt.
+Aber vielleicht ist genau das Erinnerung.
+Nicht die großen Ereignisse.
+Sondern diese kleinen, unscheinbaren Dinge, die plötzlich irgendwo auftauchen und für einen kurzen Moment alles wieder sehr nah wirken lassen.
+Und irgendwie war das heute schön.
+Achso, eine Sache noch. Der Graf, welcher mir die Nutzung dieser Seite anzeigt hat verraten, dass es vor ein paar Tagen einen Besucher gab, welcher den ganzen Quatsch hier eventuell gelesen hat.
+Blöd nur, dass nur neue Besucher angezeigt werden und man somit die aktuelle Nutzung nicht wirklich sieht. 
+Ist aber nicht so wichtig.
+Das war es eigentlich schon für heute. 
+Viel Text mit wenig Inhalt. Wie immer.
+Gute Nacht. 
 `, null)
 ];
 
