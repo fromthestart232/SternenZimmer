@@ -324,6 +324,43 @@ Ist aber nicht so wichtig.
 Das war es eigentlich schon für heute. 
 Viel Text mit wenig Inhalt. Wie immer.
 Gute Nacht. 
+`, 7),
+  createPage("Seite 7", `
+Na du.
+Wie geht es dir?
+Ich frage mich, ob man sich irgendwann daran gewöhnt, Fragen zu stellen, auf die man vermutlich keine Antwort bekommt. Wahrscheinlich nicht. Aber irgendwie fühlt es sich trotzdem richtig an, sie zu stellen.
+Wenn ich ehrlich bin, weiß ich selbst gerade nicht so genau, wie es mir geht.
+Es war kein schlechter Tag, aber auch keiner, den ich als besonders gut bezeichnen würde. Eher einer dieser Tage, die einfach vorbeiziehen und trotzdem mehr Gedanken hinterlassen, als sie eigentlich sollten.
+Vielleicht ist genau das das Anstrengende.
+Nicht zu wissen, was eigentlich los ist, aber trotzdem zu merken, dass irgendetwas in einem arbeitet.
+Heute war ich in der Stadt.
+Eigentlich nur, um ein paar Dinge zu erledigen.
+Zwischendurch bin ich im Buchladen gelandet.
+Das passiert mir erstaunlich oft, obwohl ich selten mit einem konkreten Ziel hineingehe.
+Und dort lag ein Buch, bei dem ich sofort an dich denken musste.
+Ich kann gar nicht genau sagen, woran es lag. Vielleicht am Titel, vielleicht am Cover oder einfach an diesem Gefühl, dass es dir gefallen hätte.
+Ich hatte es für einen Moment in der Hand und musste kurz schmunzeln.
+Schon komisch, wie manche Gedanken ganz automatisch auftauchen.
+Das Buch steht jetzt vermutlich immer noch dort im Regal.
+Und trotzdem hat es mich den restlichen Tag begleitet.
+Ich schweife schon wieder ab.
+Da heute Muttertag ist, wünsche ich dir natürlich auch einen schönen Katzen/Kater-Muttertag.
+Olli sieht das vermutlich genauso.
+Auch wenn du das hier wahrscheinlich nicht lesen wirst, wollte ich es trotzdem gesagt haben.
+Vielleicht ist es seltsam, wie viel Bedeutung manche Kleinigkeiten bekommen können.
+Ein Buch in einem Regal.
+Ein kurzer Gedanke.
+Ein Bild, das plötzlich wieder auftaucht.
+Und schon reicht ein einziger Moment aus, um einen ganz gewöhnlichen Tag ein kleines bisschen anders wirken zu lassen.
+Ich frage mich manchmal, ob dir solche Dinge auch passieren.
+Ob du auch manchmal über etwas stolperst, das dich für einen kurzen Augenblick erinnert.
+Nicht auf eine traurige Art.
+Eher so, dass man kurz innehält und unweigerlich lächeln muss.
+Ich hoffe, dass es dir gut geht.
+Und dass du heute einen schönen Tag hattest.
+Vielleicht mit etwas Sonne, einem entspannten Nachmittag und natürlich mit Olli, der dir hoffentlich morgen einen würdigen Katzen-Muttertag bereitet.
+Ich glaube, mehr wollte ich heute gar nicht sagen.
+Bis morgen vielleicht.
 `, null)
 ];
 
