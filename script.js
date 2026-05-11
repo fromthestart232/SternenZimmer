@@ -361,6 +361,35 @@ Und dass du heute einen schönen Tag hattest.
 Vielleicht mit etwas Sonne, einem entspannten Nachmittag und natürlich mit Olli, der dir hoffentlich morgen einen würdigen Katzen-Muttertag bereitet.
 Ich glaube, mehr wollte ich heute gar nicht sagen.
 Bis morgen vielleicht.
+`, 8),
+  createPage("Seite 8", `
+Ich weiß nicht so recht, wie ich den Einstieg heute gestalten soll.
+Vielleicht ist das auch der Grund, warum ich die letzten beiden Tage nichts geschrieben habe.
+Es ist als müsste ich den eigentlichen Inhalt in irgendwelchen anderen Gedanken verstecken, damit es mir leichter fällt, ihn zu formulieren.
+Dieses Verstecken fühlt sich nicht nur unfassbar falsch an, sondern macht es auch nicht wirklich einfacher.
+Vielleicht ist es auch einfach die Angst davor, dass es zu direkt klingt, obwohl es das eigentlich gar nicht ist.
+Aber vielleicht ist genau das der Grund, warum ich es so formulieren möchte.
+Möchte? 
+Möchte ich das wirklich? Oder ist es wieder der einfachste Weg? 
+Ich denke nicht, dass es einfach ist, aber ... 
+Heute habe ich ausnahmsweise mal keine Ausrede.
+Ich möchte dir einfach nur sagen, dass ich dich vermisse.
+Und da stelle ich mir nichtmal die Frage nach dem warum.
+Es gibt so viele Gründe, dass ich es vermutlich nicht schaffen würde, sie alle aufzuzählen. 
+Danke für den Snap von Olli. Es war sehr schön ihn mal wieder zu sehen. 
+Am liebsten hätte ich wieder einen Kommentar über seine Größe gemacht, aber er ist vermutlich schon ausgewachsen, oder wächst nur noch ziemlich langsam.
+Seit den letzten Zeilen sind bestimmt 50 Minuten vergangen. Vielleicht liegt es an meiner Einfallslosigkeit oder daran, dass ich gerade mit ein paar Klassenkameraden über Discord für die kommende Physik-Prüfung lerne.
+Einfach um irgendwas aufzuschreiben habe ich gerade einen von ihnen nach seinem Lieblingswort gefragt. Ich hätte es mir denken können.
+Er überlegte nicht lange und sagte mit einem leichten Lächeln: "Pfefferminzlikör". 
+Ich musste kurz daran denken, dass du auf dem Geburtstag meintest, dass du Berliner Luft nicht magst. 
+Wie kann man das nicht mögen? 
+Alle sagen immer, dass es nach Zahnpasta schmeckt, aber ist das etwas Schlechtes?
+Als kleines Kind habe ich auch gerne mal etwas Zahnpasta genascht. Finden Leute, die Berliner Luft nicht mögen, Zähneputzen auch so eklig? 
+Komisches Thema, wieder mal.
+Ich glaube, dass ich diese Frage öfter stelle, wenn mir nichts einfällt. 
+Ich erinnere mich daran, dir diese Frage auch gestellt zu haben. Deine Antwort war "Sehnsucht". 
+Das beschreibt es eigentlich ganz gut.
+Gute Nacht, guten Morgen oder was auch immer gerade für dich zutrifft. 
 `, null)
 ];
 
