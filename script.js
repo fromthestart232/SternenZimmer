@@ -390,6 +390,42 @@ Ich glaube, dass ich diese Frage öfter stelle, wenn mir nichts einfällt.
 Ich erinnere mich daran, dir diese Frage auch gestellt zu haben. Deine Antwort war "Sehnsucht". 
 Das beschreibt es eigentlich ganz gut.
 Gute Nacht, guten Morgen oder was auch immer gerade für dich zutrifft. 
+`, 9),
+  createPage("Seite 9", `
+Eigentlich wollte ich heute gar nichts schreiben, aber da ich schon die letzten beiden Tage nichts geschrieben habe, muss ich es jetzt doch tun.
+Die Schule ist nun fast vorbei und ich habe mehr Zeit als jemals zuvor, aber irgendwie fühlt es sich seltsam an. Die Dinge, die ich sonst mit großer Freude gemacht habe sind plötzlich langweilig.
+Es ist sogar so schlimm, dass ich freiwillig die Hausarbeit mache, die ich sonst so sehr hasse, nur um nicht rumzusitzen und mich und meine Gedanken zu ertragen.
+Als würde ich mich vor mir selbst verstecken wollen.
+Klappt nicht so gut. Was habe ich auch erwartet?
+Aber das hier ist irgendwie auch keine gute Lösung.
+Wie bekommt man es hin, dass die Stimmen im eigenen Kopf verstummen?
+Ich weiß es nicht.
+Wobei.
+Nein, ich weiß es nicht. 
+Vielleicht würde ich mich mit ihnen auseinandersetzen, wenn nicht alle irgendwie so negativ wären. Aber keiner dieser Gedanken ist grundlegend falsch.
+Vielleicht ist genau das das Problem.
+Nicht, dass diese Gedanken da sind.
+Sondern, dass man ihnen nichts entgegensetzen kann.
+Man versucht sich abzulenken, beschäftigt sich mit irgendwelchen Dingen, die eigentlich längst erledigt sind, nur damit für einen kurzen Moment Ruhe einkehrt.
+Aber sobald es still wird, sind sie wieder da.
+Geduldiger als man selbst.
+Ich frage mich manchmal, ob das überhaupt aufhört.
+Oder ob man einfach irgendwann lernt, mit dieser Art von Hintergrundrauschen zu leben.
+Vielleicht ist es wie mit einem Geräusch, das anfangs unerträglich wirkt, bis man irgendwann gar nicht mehr bewusst wahrnimmt, dass es überhaupt noch da ist.
+Ganz verschwunden ist es deshalb trotzdem nicht.
+Es fällt nur weniger auf.
+Ich glaube, genau das wünsche ich mir gerade.
+Nicht, dass plötzlich alles wieder gut ist.
+Nicht einmal, dass ich sofort Antworten auf all diese Fragen finde.
+Einfach nur ein bisschen Ruhe.
+Ein paar Minuten, in denen man nicht ständig versucht zu verstehen, was man hätte anders machen können.
+Oder warum manche Dinge so gekommen sind, wie sie gekommen sind.
+Vielleicht ist das zu viel verlangt.
+Vielleicht auch nicht.
+Bis dahin bleibt mir wohl nichts anderes übrig, als weiter zu schreiben.
+Auch wenn ich nicht weiß, ob es wirklich hilft.
+Aber zumindest fühlt es sich für einen kurzen Moment so an, als würden die Gedanken etwas leiser werden.
+Und manchmal reicht das schon aus.
 `, null)
 ];
 
