@@ -393,15 +393,15 @@ Gute Nacht, guten Morgen oder was auch immer gerade für dich zutrifft.
 `, 9),
   createPage("Seite 9", `
 Eigentlich wollte ich heute gar nichts schreiben, aber da ich schon die letzten beiden Tage nichts geschrieben habe, muss ich es jetzt doch tun.
-Die Schule ist nun fast vorbei und ich habe mehr Zeit als jemals zuvor, aber irgendwie fühlt es sich seltsam an. Die Dinge, die ich sonst mit großer Freude gemacht habe sind plötzlich langweilig.
-Es ist sogar so schlimm, dass ich freiwillig die Hausarbeit mache, die ich sonst so sehr hasse, nur um nicht rumzusitzen und mich und meine Gedanken zu ertragen.
+Die Schule ist nun fast vorbei und ich habe mehr Zeit als jemals zuvor, aber irgendwie fühlt es sich seltsam an. Die Dinge, die ich sonst mit großer Freude gemacht habe, sind plötzlich langweilig.
+Es ist sogar so schlimm, dass ich freiwillig die Hausarbeit mache, die ich sonst so sehr hasse, nur um nicht herumzusitzen und mich und meine Gedanken zu ertragen.
 Als würde ich mich vor mir selbst verstecken wollen.
 Klappt nicht so gut. Was habe ich auch erwartet?
 Aber das hier ist irgendwie auch keine gute Lösung.
 Wie bekommt man es hin, dass die Stimmen im eigenen Kopf verstummen?
 Ich weiß es nicht.
 Wobei.
-Nein, ich weiß es nicht. 
+Nein, ich weiß es nicht.
 Vielleicht würde ich mich mit ihnen auseinandersetzen, wenn nicht alle irgendwie so negativ wären. Aber keiner dieser Gedanken ist grundlegend falsch.
 Vielleicht ist genau das das Problem.
 Nicht, dass diese Gedanken da sind.
@@ -426,6 +426,35 @@ Bis dahin bleibt mir wohl nichts anderes übrig, als weiter zu schreiben.
 Auch wenn ich nicht weiß, ob es wirklich hilft.
 Aber zumindest fühlt es sich für einen kurzen Moment so an, als würden die Gedanken etwas leiser werden.
 Und manchmal reicht das schon aus.
+`, 10),
+  createPage("Seite 10", `
+Sonst schreibe ich in der Regel spät abends oder sogar nachts, aber heute muss ich es etwas früher tun, da ich sonst noch vergessen könnte, was ich eigentlich sagen wollte.
+Es ist jetzt 20:15 und ich weiß schon wieder nicht so recht, wo ich anfangen soll.
+Heute war eigentlich ein relativ ereignisreicher Tag und ich könnte ewig erzählen, aber ich begrenze es mal auf ein paar Dinge, die mir gerade so durch den Kopf gehen.
+Ich wäre heute fast im Krankenhaus gelandet, aber das ließ sich zum Glück vermeiden. Eine mindestens 80 Jahre alte Dame hat mir die Vorfahrt genommen und ich wäre ihr fast ins Auto gefahren.
+Glücklicherweise sind die Bremsen am Motorrad ziemlich stark und ich konnte knapp vor ihrem Auto anhalten. Ich stand quer auf der Straße und habe eine bestimmt 20m lange Bremsspur hinterlassen.
+Die alte Dame war sich keiner Schuld bewusst und hat mich angesehen, als wäre ich schuld daran gewesen. 
+Ich denke, es wäre eine gute Idee, wenn ältere Menschen, bei denen alle Sinne nachlassen, regelmäßig überprüfen lassen müssen, ob sie überhaupt noch in der Lage sind, ein Fahrzeug zu führen.
+Naja egal. 
+Am Samstag war ich in der Stadt und eigentlich war dieser Aufenthalt nicht wirklich besonders, aber als ich wieder los wollte, ist etwas Komisches passiert.
+Ich habe mir den Helm aufgesetzt und plötzlich kam ein Mann auf mich zu. Er trug einen Anzug und ich dachte, er würde für die Stadt arbeiten und mir erklären, warum ich mein Moped nicht neben die Fahrradständer stellen darf, aber da lag ich komplett falsch.
+Er stellte sich kurz vor und sagte, dass er Straßenfotograf sei und ob er ein Foto von mir machen dürfte. Hätte ich den Helm nicht aufgehabt, hätte er vermutlich nicht gefragt, oder doch? Im nächsten Atemzug zeigte er mir auf einer Kamera Bilder, die er bereits von anderen Leuten gemacht hatte.
+Bevor ich ihn auf seine Motivwahl ansprechen konnte, erklärte er, dass er, und jetzt gut aufgepasst, Füße fotografiert. 
+Er sagte selbst, dass die Frage etwas komisch sei, aber da es mir ziemlich egal war, habe ich einfach zugestimmt. Er hat dann ein paar Fotos von meinem Fuß auf der Fußraste des Motorrads gemacht, hat sich bedankt und ist wieder gegangen.
+Vielleicht verkauft er die an irgendwelche Fetischisten, oder vielleicht ist es einfach nur sein Stil, aber ich fand es irgendwie interessant, dass er einfach so auf mich zugekommen ist und gefragt hat.
+Eigentlich müsste ich das meinem Chirurg erzählen, der mir nach der Operation am Zeh gesagt hat, dass ich kein Fuß-Model werden könnte.
+Ich wollte eigentlich was ganz anderes erzählen, aber dieser Moment hat sich einfach dazwischen gedrängt, weil er so unerwartet und seltsam war.
+Ich habe vorhin etwas auf TikTok gescrollt und bin dann auf deine Story gestoßen und möchte dir zu deiner neuen Wohnung gratulieren.
+Ich hoffe, sie ist genauso schön, wie du es dir vorgestellt hast, und dass du dich dort schnell wohlfühlst. Es ist bestimmt eine aufregende Zeit, aber ich bin mir sicher, dass du das super meistern wirst.
+Olli freut sich sicher auch schon sehr, auch wenn er vermutlich nicht so genau weiß, was da gerade passiert.
+Ich kann mir auch gut vorstellen, dass es eine große Umstellung ist, wenn man nach ein paar Jahren wieder in der "Nähe" seiner Familie wohnt. Der Satz klingt etwas seltsam, aber du weißt sicherlich, was ich meine. 
+Eine Sache noch. 
+Ich war neulich mit meiner Familie unterwegs und wir sind zufällig an eurem neuen Haus vorbeigefahren. Lustigerweise waren Michael und du gerade draußen oder auf dem Weg zum Haus. Ich glaube, Michael hat es sogar mitbekommen und gegrüßt. 
+Eigentlich wollte ich dir nur sagen, dass dir deine Brille ausgezeichnet steht. 
+Das war's auch schon für heute. 
+Es ist jetzt 20:37.
+Falls du das liest, hoffe ich, dass es dir gut geht und dass du einen schönen Tag hattest.
+Bis bald vielleicht.
 `, null)
 ];
 
