@@ -455,6 +455,34 @@ Das war's auch schon für heute.
 Es ist jetzt 20:37.
 Falls du das liest, hoffe ich, dass es dir gut geht und dass du einen schönen Tag hattest.
 Bis bald vielleicht.
+`, 11),
+  createPage("Seite 11", `
+Ich habe Heimweh, aber sitze hier an meinem gewohnten Platz.
+Ein seltsamer Satz, wenn man ihn einfach so stehen lässt.
+Heute ist einer dieser Tage, an denen alles irgendwie vertraut ist und sich trotzdem nicht richtig passend anfühlt. Als würde man in einem Raum sitzen, den man eigentlich gut kennt, aber irgendetwas darin hat sich minimal verschoben, ohne dass man sagen kann was.
+Vielleicht ist es kein Vermissen von irgendwoanders.
+Vielleicht eher von etwas in mir selbst.
+Ich habe heute viel Zeit damit verbracht, einfach nichts wirklich zu tun. Nicht aus Faulheit, sondern eher, weil alles, was ich angefangen habe, sich nach kurzer Zeit wieder falsch angefühlt hat. Als würde mir für jede Richtung der Antrieb fehlen, bevor ich überhaupt losgehen kann.
+Irgendwie anstrengend, ohne dass wirklich etwas passiert.
+Ich musste heute für einen Friseurtermin anrufen.
+Eigentlich nichts Besonderes, aber ich merke immer wieder, dass ich genau solche Dinge hasse. Dieses Telefonieren, dieses kurze Planen von etwas, das eigentlich banal ist, aber sich im Moment größer anfühlt als es sollte.
+Am anderen Ende hieß es erst, dass es vor Pfingsten schwierig wird.
+Ich habe kurz überlegt, es einfach dabei zu belassen.
+Stattdessen habe ich noch einmal nachgefragt und irgendwann hat sich dann doch noch ein Termin ergeben.
+Nicht spektakulär, aber ich habe danach kurz darüber nachgedacht, wie viel Umstand so etwas Kleines eigentlich machen kann.
+Ich war danach kurz draußen, einfach um den Kopf etwas freizubekommen. Es war nicht wirklich hilfreich im klassischen Sinne, aber zumindest für ein paar Minuten etwas ruhiger.
+Danach war alles wieder da.
+Dieses diffuse Gefühl, dass man eigentlich etwas tun sollte, aber keinen klaren Ansatz hat, was genau das sein soll. Und egal, was man denkt, es bleibt irgendwie ungreifbar.
+Es ist seltsam, wie der Kopf Dinge immer wieder neu sortiert, auch wenn man selbst längst aufgehört hat, sie bewusst zu betrachten.
+Diesen Satz habe ich schon so oft benutzt, aber ich glaube, genau deshalb schreibe ich das hier. 
+Nicht, weil es eine Lösung ist.
+Sondern weil es für einen kurzen Moment Ordnung in etwas bringt, das sonst nur im Hintergrund läuft.
+Vielleicht ist das der einzige Grund, warum ich überhaupt noch anfange.
+Ich hoffe, dein Tag war etwas klarer als meiner.
+Oder zumindest weniger schwer im Kopf.
+Die Statistik hat erneut gezeigt, dass jemand hier war, ich weiß nicht, wer, aber ich würde mich freuen, wenn du es bist.
+Ich hoffe, du hattest einen guten Start in die Woche und dass es dir gut geht.
+Gute Nacht. 
 `, null)
 ];
 
