@@ -3,17 +3,35 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta http-equiv="Content-Security-Policy" content="img-src 'self' data:;">
+  <meta http-equiv="Content-Security-Policy"
+content="
+default-src 'self';
+script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net;
+style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+font-src 'self' https://fonts.gstatic.com;
+img-src 'self' data:;
+connect-src 'self'
+https://yaecvybfldlcdgzyokep.supabase.co
+https://cdn.jsdelivr.net
+ws://127.0.0.1:3001;
+media-src 'self';
+">
   <title>Für dich</title>
 
   <!-- SCHRIFT -->
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="style.css" />
+
+  <!-- SUPABASE -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
 </head>
+
 <body>
 
   <canvas id="stars"></canvas>
+  <div id="reply-blur" class="reply-blur hidden"></div>
 
   <!-- MUSIK -->
   <audio id="music" loop>
@@ -28,6 +46,13 @@
   <div class="content">
     <div class="envelope hidden"></div>
     <p class="tap">Tippe</p>
+  </div>
+
+  <!-- ANTWORT-BEREICH (nur auf Seite 12) -->
+  <div id="reply-box" class="reply-box hidden">
+    <textarea id="reply" placeholder="wenn du etwas sagen möchtest ..."></textarea>
+    <br>
+    <button id="send-btn">Senden</button>
   </div>
 
   <script src="script.js"></script>

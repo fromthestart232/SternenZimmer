@@ -1,5 +1,7 @@
 ﻿const canvas = document.getElementById("stars");
 const ctx = canvas.getContext("2d");
+const supabaseUrl = 'https://yaecvybfldlcdgzyokep.supabase.co'
+const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlhZWN2eWJmbGRsY2Rnenlva2VwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk0NDIzMDIsImV4cCI6MjA5NTAxODMwMn0.vZlI_xmaht7farHYkJbt-8LyMELFAwIYF7iXrIJWbRI'
 
 function resize() {
   canvas.width = window.innerWidth;
@@ -483,6 +485,40 @@ Oder zumindest weniger schwer im Kopf.
 Die Statistik hat erneut gezeigt, dass jemand hier war, ich weiß nicht, wer, aber ich würde mich freuen, wenn du es bist.
 Ich hoffe, du hattest einen guten Start in die Woche und dass es dir gut geht.
 Gute Nacht. 
+`, 12),
+  createPage("Seite 12", `
+Na du.
+Ich habe heute mal etwas geschafft.
+Klingt seltsam, wenn man es so direkt schreibt.
+Als wäre das etwas Besonderes.
+Vielleicht ist es das gerade auch.
+Am Ende dieser Texte kann man jetzt anonym auf Fragen antworten. Ich weiß selbst noch nicht so genau, ob das eine gute Idee war, aber irgendwie wollte ich es ausprobieren.
+War selbst für mich eine ziemliche Herausforderung.
+Nicht, weil ich nicht wusste, wie es theoretisch funktionieren müsste, sondern weil Theorie und Praxis ja bekanntlich zwei verschiedene Dinge sind.
+Vor allem dann, wenn man eigentlich nur eine kleine Idee hat und sie plötzlich aus mehreren kleinen Problemen besteht, die alle nacheinander gelöst werden wollen.
+Ich habe vermutlich länger daran gesessen, als ich zugeben würde.
+Aber jetzt funktioniert es.
+Zumindest glaube ich das.
+Und irgendwie fühlt sich das gut an.
+Nicht auf diese übertriebene Art, bei der plötzlich alles besser ist.
+Eher so, als hätte ich für einen kurzen Moment wieder etwas in die richtige Richtung geschoben.
+Vielleicht reicht das ja manchmal.
+Ich glaube, heute kann ich mit einem guten Gefühl fragen, wie es dir geht.
+Nicht, weil ich eine Antwort erwarte.
+Aber weil es sich heute weniger schwer anfühlt, diese Frage zu stellen.
+Also.
+Wie geht es dir?
+Ich hoffe wirklich, dass es dir gut geht.
+Und falls du das hier irgendwann lesen solltest, kannst du theoretisch sogar antworten.
+Anonym.
+Was irgendwie lustig ist, weil ich wahrscheinlich trotzdem bei jeder Antwort überlegen würde, ob sie von dir sein könnte.
+Ist vielleicht nicht besonders sinnvoll.
+Aber vieles hier ist das ja nicht.
+Ich glaube, ich wollte heute einfach nur festhalten, dass ich mal etwas geschafft habe.
+Auch wenn es nur eine kleine Funktion am Ende einer Seite ist.
+Für heute reicht das.
+Tschau
+.
 `, null)
 ];
 
@@ -546,6 +582,8 @@ const envelope = document.querySelector(".envelope");
 const tap = document.querySelector(".tap");
 const skipBtn = document.getElementById("skip");
 const music = document.getElementById("music");
+const replyBox = document.getElementById("reply-box");
+const replyBlur = document.getElementById("reply-blur");
 
 let currentStep = -1;
 let started = false;
@@ -588,6 +626,15 @@ function renderPage(index) {
   envelope.classList.add("hidden");
   envelope.classList.remove("fly-in");
   tap.style.display = "block";
+
+replyBox.classList.add("hidden");
+replyBox.style.display = "none";
+replyBlur.classList.add("hidden");
+
+if (currentPageIndex === 12) {
+  tap.style.display = "block";
+  envelope.classList.add("hidden");
+}
 }
 
 function goToPage(index) {
@@ -619,10 +666,22 @@ document.body.addEventListener("click", (e) => {
   }
 
   if (currentStep < stepNodes.length - 1) {
-    currentStep += 1;
-    stepNodes[currentStep].classList.add("show");
-    createHeartParticles(e.clientX, e.clientY);
-  } else {
+  currentStep += 1;
+  stepNodes[currentStep].classList.add("show");
+  createHeartParticles(e.clientX, e.clientY);
+
+  if (
+    currentPageIndex === 12 &&
+    currentStep === stepNodes.length - 1
+  ) {
+    replyBox.classList.remove("hidden");
+    replyBox.style.display = "block";
+    replyBox.style.opacity = "1";
+    replyBox.style.pointerEvents = "auto";
+    replyBlur.classList.remove("hidden");
+  }
+
+}else {
     const page = pages[currentPageIndex - 1];
     if (page.nextPage) {
       goToNextPage();
@@ -650,3 +709,38 @@ function createHeartParticles(x, y) {
 currentPageIndex = getPageIndex();
 renderPage(currentPageIndex);
 draw();
+
+const supabaseClient = window.supabase.createClient(
+  supabaseUrl,
+  supabaseKey
+);
+
+replyBox.addEventListener("click", (event) => {
+  event.stopPropagation();
+});
+
+document.getElementById("send-btn").addEventListener("click", async (event) => {
+  event.stopPropagation();
+
+  const text = document.getElementById("reply").value.trim();
+
+  if (!text) return;
+
+  if (text.length > 500) {
+    alert("Maximal 500 Zeichen.");
+    return;
+  }
+
+  const { error } = await supabaseClient
+    .from("replies")
+    .insert([{ text }]);
+
+  if (error) {
+    console.error(error);
+    alert("Fehler beim Senden.");
+    return;
+  }
+
+  document.getElementById("reply").value = "";
+  alert("Gesendet");
+});
