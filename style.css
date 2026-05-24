@@ -103,6 +103,14 @@ canvas {
   pointer-events: none;
 }
 
+.top-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-end;
+  pointer-events: auto;
+}
+
 .page-number {
   font-size: 1rem;
   opacity: 0.8;

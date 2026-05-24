@@ -10,7 +10,7 @@ function resize() {
 resize();
 window.addEventListener("resize", resize);
 
-function createPage(title, text, nextPage = null, skipLabel = "Zur nächsten Nachricht") {
+function createPage(title, text, nextPage = null, skipLabel = "Zur nächsten Seite") {
   return {
     title,
     steps: text
@@ -100,7 +100,7 @@ Eine Sache noch. Meine kleine Schwester schaut aktuell eine Serie und die Hauptf
 Ein schöner Name. Ich hoffe ich erinnere mich korrekt.
 Ich hoffe es geht dir gut und natürlich auch allen anderen die das lesen.
 Ist wohl eher zu einem Selbstgespräch geworden, aber es hat sich irgendwie befreiend angefühlt.
-`, 2, "Zur nächsten Nachricht"),
+`, 2, "Zur nächsten Seite"),
   createPage("Finale", `
 Neuer Tag neue Seite?
 Eigentlich ist es ja die gleiche Seite, aber spielt keine Rolle.
@@ -519,6 +519,122 @@ Auch wenn es nur eine kleine Funktion am Ende einer Seite ist.
 Für heute reicht das.
 Tschau
 .
+`, 13),
+  createPage("Seite 13", `
+Manche Fragen verstecken sich ziemlich gut.
+Heute zum Beispiel in einem Hemd.
+Genauer gesagt in der Frage, ob ich die oberen Knöpfe offen lasse oder schließe.
+Ich habe mich deswegen ein bisschen mit meiner Mutter gestritten.
+Wobei gestritten vielleicht schon zu groß klingt.
+Es ging ja eigentlich um nichts.
+Zumindest dachte ich das.
+Ich war natürlich dafür, sie zu schließen.
+Keine Ahnung warum „natürlich“.
+Vielleicht, weil es sich sicherer anfühlt.
+Kontrollierter.
+Als würde man weniger Angriffsfläche bieten, wenn alles irgendwie ordentlich und geschlossen ist.
+Meine Mutter sah das anders.
+Und dann stand ich da und habe beides ausprobiert.
+Obere Knöpfe offen.
+Obere Knöpfe geschlossen.
+Eigentlich ist es fast lächerlich, wie unterschiedlich ein und dasselbe Hemd dadurch wirken kann.
+Es ist ja nicht nur Stoff.
+Nicht nur ein Kragen.
+Nicht nur ein paar Knöpfe.
+Es verändert irgendwie die gesamte Wirkung.
+Nach außen, aber auch nach innen.
+Offen wirkt lockerer.
+Vielleicht selbstbewusster.
+Vielleicht auch so, als würde man sich weniger verstecken.
+Geschlossen wirkt ordentlicher.
+Vielleicht ernster.
+Vielleicht auch ein bisschen so, als würde man sich an etwas festhalten.
+Ich weiß nicht, welche Version besser war.
+Und viel schlimmer.
+Ich weiß nicht, welche Version mehr nach mir aussah.
+Komischer Gedanke, oder?
+Dass ein Hemd plötzlich die Frage stellt, die man sich selbst nicht so gerne stellt.
+Wer bin ich eigentlich?
+Oder vielleicht eher.
+Wer will ich sein?
+Ich habe keine Ahnung. Oder habe ich es vergessen?
+Früher hätte ich vermutlich einfach irgendetwas angezogen und nicht weiter darüber nachgedacht.
+Heute stehe ich vor einem Spiegel und frage mich, ob zwei offene Knöpfe schon zu viel über einen Menschen aussagen können.
+Vermutlich tun sie das nicht.
+Aber es fühlt sich trotzdem so an.
+Vielleicht, weil es gar nicht wirklich um das Hemd ging.
+Sondern um dieses ständige Gefühl, sich entscheiden zu müssen.
+Locker oder kontrolliert.
+Offen oder geschlossen.
+So sein, wie man ist.
+Oder so wirken, wie man gerne wäre.
+Und dann merkt man, dass man gar nicht genau weiß, wo da der Unterschied liegt.
+Ich glaube, ich suche gerade nach einer Version von mir, die sich richtig anfühlt.
+Nicht unbedingt besser.
+Nicht perfekter.
+Einfach richtiger.
+Aber wenn man nicht weiß, wonach man sucht, sieht irgendwie alles kurz passend aus und dann doch wieder falsch.
+Ich schweife schon wieder ab.
+Eigentlich ging es nur um ein Hemd.
+Ein paar Knöpfe.
+Eine kleine Diskussion mit meiner Mutter.
+Und trotzdem sitze ich jetzt hier und denke darüber nach, warum mir diese Entscheidung so schwer gefallen ist.
+Vielleicht ist das albern.
+Vielleicht auch nicht.
+Ich glaube, manche Fragen suchen sich einfach sehr kleine Dinge, um groß zu werden.
+Heute waren es eben Knöpfe.
+Ich weiß immer noch nicht, ob ich sie offen lassen oder schließen sollte.
+Aber vielleicht ist genau das gerade der ehrlichste Teil daran.
+Ich weiß es nicht.
+Ich weiß gerade ziemlich vieles nicht.
+Wobei.
+Eine Sache weiß ich.
+Alte Leute und Politik sind eine wirklich gefährliche Kombination.
+Ich wollte mich heute eigentlich noch darüber aufregen, aber irgendwie passt es ja sogar zu diesem ganzen „Wer will ich sein?“-Gedanken.
+Weil ich mich ernsthaft frage, wie man sein ganzes Leben hinter sich haben kann, so viele Dinge gesehen, erlebt und überstanden hat, und am Ende trotzdem bei so einer verbitterten Weltansicht landet.
+Warum sind so viele Rentner so?
+Natürlich nicht alle.
+Aber zu viele.
+Es ist immer dieses gleiche Gerede.
+Alles war früher besser.
+Heute darf man ja nichts mehr sagen.
+Die Ausländer sind schuld.
+Die da oben sowieso.
+Und dann sitzt man daneben und fragt sich, ob die Person eigentlich einmal hört, was sie da sagt.
+Als wäre Politik nur noch ein Ventil für Unzufriedenheit.
+Nicht mehr die Frage, was wirklich besser werden könnte.
+Nicht mehr die Frage, wer welche Probleme löst.
+Nur noch die Hoffnung, dass irgendjemand kommt und die Welt wieder so macht, wie sie in der Erinnerung angeblich mal war.
+Was auch immer das bedeuten soll.
+Als hätte die AfD irgendeinen magischen Vorteil für Rentner.
+Als würde plötzlich alles besser werden, nur weil man lange genug auf die falschen Menschen zeigt.
+Aber Hauptsache alle Ausländer sind weg.
+Und dann?
+Keine Ahnung.
+Wie es danach weitergeht, weiß keiner so genau.
+Aber immerhin sind die Ausländer weg.
+Ich hasse es so sehr.
+Nicht nur, weil es politisch dumm ist.
+Sondern weil es so unfassbar kalt ist.
+So wenig menschlich.
+Als würde man irgendwann aufhören, einzelne Menschen zu sehen und stattdessen nur noch Gruppen, Feindbilder und Schlagwörter.
+Vielleicht macht mich genau das so wütend.
+Dass Menschen, die selbst wissen müssten, wie es ist, nicht ernst genommen zu werden, irgendwann anfangen, anderen jedes Mitgefühl abzusprechen.
+Ich weiß nicht, ob das naiv ist.
+Vielleicht ist es das.
+Vielleicht erwarte ich zu viel von Menschen.
+Aber ich verstehe einfach nicht, wie man am Ende eines langen Lebens nicht weicher wird, sondern härter.
+Wie man nicht mehr Verständnis entwickelt, sondern weniger.
+Wie man nicht denkt: „Ich hatte es schwer, also sollen es andere leichter haben.“
+Sondern: „Ich hatte es schwer, also sollen andere es gefälligst auch schwer haben.“
+Was ist das für eine Logik?
+Vielleicht ist das genau der Punkt, der mich so stört.
+Diese Mischung aus Angst, Trotz und Gleichgültigkeit.
+Und dann merke ich, dass ich selbst gerade ziemlich hart über andere urteile.
+Auch nicht wirklich besser.
+Nagut, das war es eigentlich schon für heute.
+Etwas mehr als sonst, aber heute war es igendwie auch notwendig.
+Gute Nacht.
 `, null)
 ];
 
@@ -552,17 +668,9 @@ function draw() {
 function drawParticle(p) {
   ctx.save();
   ctx.globalAlpha = p.alpha;
-  ctx.translate(p.x, p.y);
-  ctx.fillStyle = p.color;
-
-  const topCurveHeight = p.r * 0.3;
   ctx.beginPath();
-  ctx.moveTo(0, topCurveHeight);
-  ctx.bezierCurveTo(0, topCurveHeight - p.r / 2, -p.r, topCurveHeight - p.r / 2, -p.r, topCurveHeight);
-  ctx.bezierCurveTo(-p.r, topCurveHeight + p.r / 2, 0, topCurveHeight + p.r, 0, topCurveHeight + p.r);
-  ctx.bezierCurveTo(0, topCurveHeight + p.r, p.r, topCurveHeight + p.r / 2, p.r, topCurveHeight);
-  ctx.bezierCurveTo(p.r, topCurveHeight - p.r / 2, 0, topCurveHeight - p.r / 2, 0, topCurveHeight);
-  ctx.closePath();
+  ctx.fillStyle = p.color;
+  ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
   ctx.fill();
   ctx.restore();
 }
@@ -581,6 +689,7 @@ const stars = Array.from({ length: 120 }, () => {
 const envelope = document.querySelector(".envelope");
 const tap = document.querySelector(".tap");
 const skipBtn = document.getElementById("skip");
+const prevBtn = document.getElementById("prev");
 const music = document.getElementById("music");
 const replyBox = document.getElementById("reply-box");
 const replyBlur = document.getElementById("reply-blur");
@@ -654,6 +763,14 @@ skipBtn.addEventListener("click", (event) => {
   goToNextPage();
 });
 
+if (prevBtn) {
+  prevBtn.addEventListener("click", (event) => {
+    event.stopPropagation();
+    const lastIndex = pages.length;
+    goToPage(lastIndex);
+  });
+}
+
 document.body.addEventListener("click", (e) => {
   if (!started) {
     started = true;
@@ -668,7 +785,7 @@ document.body.addEventListener("click", (e) => {
   if (currentStep < stepNodes.length - 1) {
   currentStep += 1;
   stepNodes[currentStep].classList.add("show");
-  createHeartParticles(e.clientX, e.clientY);
+  createParticles(e.clientX, e.clientY);
 
   if (
     currentPageIndex === 12 &&
@@ -689,10 +806,10 @@ document.body.addEventListener("click", (e) => {
   }
 });
 
-function createHeartParticles(x, y) {
-  const count = 8;
+function createParticles(x, y) {
+  const count = 10;
   for (let i = 0; i < count; i++) {
-    const size = Math.random() * 6 + 4;
+    const size = Math.random() * 4 + 2;
     const color = Math.random() < 0.5 ? "#F7CAC9" : "#5DADE2";
     particleList.push({
       x,
@@ -709,6 +826,15 @@ function createHeartParticles(x, y) {
 currentPageIndex = getPageIndex();
 renderPage(currentPageIndex);
 draw();
+
+// Hide the "prev" button when on the last page
+if (prevBtn) {
+  if (typeof pages !== "undefined" && currentPageIndex === pages.length) {
+    prevBtn.style.display = "none";
+  } else {
+    prevBtn.style.display = "block";
+  }
+}
 
 const supabaseClient = window.supabase.createClient(
   supabaseUrl,
