@@ -633,7 +633,7 @@ Diese Mischung aus Angst, Trotz und Gleichgültigkeit.
 Und dann merke ich, dass ich selbst gerade ziemlich hart über andere urteile.
 Auch nicht wirklich besser.
 Nagut, das war es eigentlich schon für heute.
-Etwas mehr als sonst, aber heute war es igendwie auch notwendig.
+Etwas mehr als sonst, aber heute war es irgendwie auch notwendig.
 Gute Nacht.
 `, null)
 ];
