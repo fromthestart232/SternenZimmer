@@ -635,6 +635,127 @@ Auch nicht wirklich besser.
 Nagut, das war es eigentlich schon für heute.
 Etwas mehr als sonst, aber heute war es irgendwie auch notwendig.
 Gute Nacht.
+`, 14),
+  createPage("Seite 14", `
+Ich wurde heute einfach angesprochen.
+Also nicht so angesprochen, wie man eben manchmal angesprochen wird.
+Nicht wegen der Uhrzeit.
+Nicht, weil jemand den Weg wissen wollte.
+Nicht, weil ich irgendwo im Weg stand.
+Sondern wirklich angesprochen.
+Von einem Mädchen, das ich noch nie gesehen habe.
+Sie hat sich nicht vorgestellt. Sie kam einfach auf mich zu und fragte, ob ich ihr meine Nummer geben kann.
+Ich war im ersten Moment ein bisschen überfordert.
+Nicht sichtbar, hoffe ich zumindest.
+Aber innerlich schon.
+Ich glaube, so etwas ist mir noch nie passiert.
+Zumindest nicht so direkt.
+Sie wirkte ziemlich selbstbewusst. Nicht unangenehm, eher klar und sicher. Als hätte sie sich kurz entschieden, dass sie es jetzt einfach fragt, und es dann auch gemacht.
+Vielleicht hat genau das es mir leichter gemacht, abzulehnen.
+Ich habe mich bedankt.
+Und nein gesagt.
+Oder zumindest irgendwie in dieser Richtung.
+Ich weiß ehrlich gesagt nicht einmal mehr genau, wie ich es formuliert habe.
+Solche Momente sind seltsam.
+Sie dauern nur ein paar Sekunden, aber im Kopf werden sie danach viel länger.
+Ich habe später darüber nachgedacht, wie es gewesen wäre, wenn sie nervös gewesen wäre.
+Oder unsicher.
+Oder wenn man ihr angesehen hätte, dass sie gerade all ihren Mut zusammennimmt.
+Dann hätte ich mich wahrscheinlich furchtbar gefühlt.
+Nicht, weil ich anders entschieden hätte.
+Sondern weil sich dieselbe Entscheidung plötzlich viel grausamer angefühlt hätte.
+Schon komisch eigentlich.
+Der Inhalt bleibt gleich.
+Aber die Art, wie jemand etwas fragt, verändert, wie schwer sich eine Antwort anfühlt.
+Ich glaube, ich hätte mich selbst nie getraut, jemanden einfach so anzusprechen.
+Jemanden, den ich noch nie gesehen habe.
+Ohne irgendetwas über die Person zu wissen.
+Nur aufgrund eines kurzen Eindrucks.
+Vielleicht ist genau das der Punkt, der mich daran so beschäftigt.
+Es ist irgendwie mutig.
+Aber auch unfassbar oberflächlich.
+Nicht böse gemeint.
+Wahrscheinlich geht es in so einer Situation gar nicht anders.
+Man hat ja nichts außer das, was man sieht.
+Ein Gesicht.
+Eine Haltung.
+Vielleicht Kleidung.
+Vielleicht irgendeine Ausstrahlung, die man sich in dem Moment selbst zusammenreimt.
+Und auf Basis davon entscheidet man dann, ob man Interesse hat oder nicht.
+Das fühlt sich unfair an.
+Für beide Seiten irgendwie.
+Für die Person, die fragt, weil sie innerhalb weniger Sekunden auf etwas reduziert wird, das gar nicht annähernd ausreicht, um sie wirklich einzuschätzen.
+Und für die Person, die antworten muss, weil sie eine Entscheidung treffen soll, ohne überhaupt den Menschen dahinter zu kennen.
+Eigentlich müsste ich mich entschuldigen.
+Nicht dafür, dass ich nein gesagt habe.
+Sondern dafür, dass ich ihr keine Chance gegeben habe, mehr zu sein als dieser kurze Moment.
+Aber was hätte ich sagen sollen?
+„Tut mir leid, ich möchte dich nicht kennenlernen“?
+Das klingt ehrlich, aber auch irgendwie unnötig hart.
+„Ich habe kein Interesse“?
+Wahrscheinlich richtig.
+Aber fühlt sich trotzdem seltsam an.
+„Danke, aber nein“?
+Vielleicht ist das die beste Version.
+Kurz.
+Freundlich.
+Ohne Erklärung, die am Ende nur noch mehr verletzen könnte.
+Ich frage mich trotzdem, wie man in so einer Situation agiert, damit sich niemand schlecht fühlt.
+Vielleicht geht das gar nicht.
+Vielleicht ist Ablehnung immer ein bisschen unangenehm.
+Auch dann, wenn sie freundlich ist.
+Und vielleicht ist genau das der Preis dafür, ehrlich zu sein.
+Man kann nicht jede Situation so verlassen, dass niemand etwas spürt.
+Man kann nur versuchen, nicht unnötig weh zu tun.
+Ich hoffe, das habe ich geschafft.
+Irgendwie beschäftigt mich das mehr, als es sollte.
+Vielleicht, weil ich normalerweise auf der anderen Seite dieser Unsicherheit stehe.
+Nicht bei so etwas.
+Aber grundsätzlich.
+Dieses Gefühl, etwas sagen zu wollen und gleichzeitig Angst davor zu haben, was danach passiert.
+Vielleicht war es genau deshalb so beeindruckend, dass sie einfach gefragt hat.
+Ich weiß nicht, ob ich das könnte.
+Wahrscheinlich nicht.
+Und vielleicht verdient allein das schon Respekt.
+Auch wenn meine Antwort trotzdem nein war.
+Vielleicht ist genau das der Teil, der sich so widersprüchlich anfühlt.
+Man kann den Mut eines Menschen respektieren und ihn trotzdem ablehnen.
+Man kann freundlich sein und trotzdem der Grund dafür sein, dass sich jemand für einen Moment schlecht fühlt.
+Man kann alles richtig machen und sich trotzdem irgendwie falsch fühlen.
+Ich glaube, daran hänge ich gerade.
+Dass es manchmal keine perfekte Reaktion gibt.
+Keine Formulierung, die alles leicht macht.
+Keine Antwort, bei der man danach sicher sein kann, dass niemand verletzt wurde.
+Vielleicht ist das bei Begegnungen mit anderen Menschen einfach so.
+Man betritt kurz die Welt eines anderen, sagt etwas, fragt etwas, entscheidet etwas, und danach gehen beide wieder weiter.
+Mit einem etwas anderen Gefühl als vorher.
+Ich frage mich, ob sie sich später noch darüber Gedanken gemacht hat.
+Oder ob sie es einfach abgehakt hat.
+Vielleicht war es für sie nur eine kurze Situation.
+Ein Versuch.
+Ein „warum nicht“.
+Und ich mache daraus jetzt wieder etwas viel Größeres, als es eigentlich war.
+Wäre nicht das erste Mal.
+Trotzdem finde ich es bemerkenswert.
+Nicht unbedingt, dass sie mich angesprochen hat.
+Sondern dass sie es überhaupt getan hat.
+Dass sie diesen kurzen unangenehmen Moment riskiert hat, ohne zu wissen, was passiert.
+Vielleicht ist genau das eine Eigenschaft, die ich mir selbst manchmal wünschen würde.
+Einfach fragen.
+Einfach etwas versuchen.
+Nicht vorher jede mögliche Reaktion im Kopf durchspielen, bis man am Ende gar nichts mehr macht.
+Vielleicht war das heute also nicht nur eine seltsame Situation.
+Vielleicht war es auch eine kleine Erinnerung daran, dass manche Menschen mutiger sind, als sie selbst wirken.
+Und dass ich vielleicht öfter etwas riskieren müsste.
+Nicht unbedingt Telefonnummern.
+Aber Worte.
+Entscheidungen.
+Schritte.
+Dinge, die man nicht ewig im Kopf behalten kann, nur weil man Angst vor der Antwort hat.
+Ich glaube, das nehme ich aus heute mit.
+Dass ein Nein nicht immer etwas Schlechtes ist.
+Manchmal ist es einfach nur eine ehrliche Grenze.
+Und Mut ist trotzdem Mut, auch wenn er nicht belohnt wird.
 `, null)
 ];
 
