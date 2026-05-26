@@ -756,6 +756,57 @@ Ich glaube, das nehme ich aus heute mit.
 Dass ein Nein nicht immer etwas Schlechtes ist.
 Manchmal ist es einfach nur eine ehrliche Grenze.
 Und Mut ist trotzdem Mut, auch wenn er nicht belohnt wird.
+`, 15),
+createPage("Seite 15", `
+Gestern habe ich überlegt, ob es morgen um Ablehnung gehen könnte.
+Jetzt ist morgen.
+Komischer Satz.
+Aber irgendwie passt er ganz gut.
+Ich habe heute länger darüber nachgedacht, warum Ablehnung eigentlich so schwer auszuhalten ist. Nicht nur, wenn man sie bekommt, sondern schon lange davor. Meistens passiert ja noch gar nichts. Niemand hat nein gesagt. Niemand hat einen komisch angesehen. Niemand hat irgendetwas entschieden.
+Und trotzdem fühlt es sich schon vorher so an, als wäre es passiert.
+Vielleicht ist genau das das Problem.
+Man erlebt die Ablehnung im Kopf, bevor sie überhaupt existiert.
+Man stellt sich vor, wie jemand reagiert. Wie sich der Blick verändert. Wie ein Satz kommt, der eigentlich gar nicht schlimm gemeint ist, aber trotzdem irgendwo hängen bleibt.
+Und dann entscheidet man sich lieber dafür, nichts zu sagen.
+Nicht, weil man nichts sagen möchte.
+Sondern weil die Möglichkeit eines Neins schwerer wiegt als die Hoffnung auf ein Ja.
+Ich glaube, ich kenne dieses Gefühl ziemlich gut.
+Vielleicht sogar zu gut.
+Es ist seltsam, wie viel Macht ein Wort haben kann, das noch gar nicht ausgesprochen wurde.
+Ein mögliches Nein kann lauter sein als jedes echte.
+Vielleicht, weil man gegen etwas Reales wenigstens irgendwie reagieren kann.
+Man kann es hören.
+Verarbeiten.
+Irgendwann einordnen.
+Aber gegen ein Nein, das nur im Kopf existiert, kann man nichts machen. Es verändert ständig seine Form und findet immer neue Gründe, warum man es besser gar nicht erst versuchen sollte.
+Ich frage mich, wie viele Dinge ich genau deshalb nie getan habe.
+Wie viele Sätze ich nicht gesagt habe.
+Wie viele Fragen ich nie gestellt habe.
+Wie viele Wege ich nicht gegangen bin, nur weil irgendwo in mir schon vorher entschieden wurde, dass es sowieso schlecht ausgehen könnte.
+Vielleicht ist das feige.
+Vielleicht ist es menschlich.
+Wahrscheinlich beides.
+Gestern wurde ich angesprochen und habe Nein gesagt.
+Und heute denke ich darüber nach, wie oft ich selbst nicht einmal bis zu dieser Frage gekommen wäre.
+Das ist irgendwie bitter.
+Nicht, weil ich denke, dass jede Frage gestellt werden muss.
+Manchmal ist Schweigen richtig.
+Manchmal ist Abstand richtig.
+Manchmal ist es besser, nichts zu erzwingen.
+Aber ich glaube, es gibt einen Unterschied zwischen bewusstem Schweigen und Schweigen aus Angst.
+Und genau diesen Unterschied erkenne ich bei mir nicht immer.
+Vielleicht ist das der eigentliche Punkt.
+Ablehnung tut weh.
+Aber die Angst davor nimmt einem manchmal schon vorher die Entscheidung ab.
+Und dann wirkt es, als hätte man selbst gewählt.
+Dabei hat man nur vermieden.
+Ich weiß nicht, ob ich das ändern kann.
+Aber vielleicht ist es schon etwas, es überhaupt zu merken.
+Vielleicht ist das der erste kleine Schritt.
+Nicht direkt mutiger sein.
+Nicht plötzlich alles aussprechen.
+Nur ehrlich genug sein, um zu erkennen, wann Angst gerade für einen entscheidet.
+Ich glaube, damit fange ich heute an.
 `, null)
 ];
 
