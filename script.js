@@ -757,7 +757,7 @@ Dass ein Nein nicht immer etwas Schlechtes ist.
 Manchmal ist es einfach nur eine ehrliche Grenze.
 Und Mut ist trotzdem Mut, auch wenn er nicht belohnt wird.
 `, 15),
-createPage("Seite 15", `
+  createPage("Seite 15", `
 Gestern habe ich überlegt, ob es morgen um Ablehnung gehen könnte.
 Jetzt ist morgen.
 Komischer Satz.
@@ -807,6 +807,152 @@ Nicht direkt mutiger sein.
 Nicht plötzlich alles aussprechen.
 Nur ehrlich genug sein, um zu erkennen, wann Angst gerade für einen entscheidet.
 Ich glaube, damit fange ich heute an.
+`, 16),
+  createPage("Seite 16", `
+Heute war ein Raum ohne Tür.
+Nicht verschlossen.
+Nur leerer als sonst.
+Ich bin durch ihn gelaufen, als würde ich etwas suchen, das ich nicht beim Namen nennen darf.
+Auf dem Tisch lag kein Brief.
+Im Handy kein Wunder.
+Im Kopf nur ein Satz, der sich jedes Mal versteckt, wenn ich ihn ansehen will.
+Vielleicht ist das so mit Dingen, die fehlen.
+Sie stehen nicht vor einem.
+Sie sitzen neben einem.
+Still.
+Unauffällig.
+Wie ein zweiter Schatten.
+Ich habe heute versucht, ihn abzuschütteln.
+Hat nicht funktioniert.
+Er kennt meine Wege zu gut.
+Manche Namen sind wie Schlüssel.
+Man trägt sie nicht sichtbar bei sich.
+Aber jeder Raum merkt, dass man sie verloren hat.
+Ich glaube, heute war so ein Tag.
+Kein lauter.
+Kein schwerer.
+Nur einer, der an den falschen Stellen hohl klingt.
+Als hätte jemand ein Lied gespielt und genau die schönste Note ausgelassen.
+Und trotzdem wartet man die ganze Zeit darauf, sie zu hören.
+Komisch.
+Wie etwas fehlen kann, ohne verschwunden zu sein.
+Wie etwas still sein kann und trotzdem alles sagt.
+Vielleicht ist es auch nicht nur der Mensch, der fehlt.
+Vielleicht ist es das Licht, das er auf Dinge geworfen hat.
+Man hält eine Lampe oft für selbstverständlich, solange sie brennt.
+Erst wenn sie ausgeht, merkt man, wie viele Ecken vorher warm waren.
+Wie viele Dinge weniger hart aussahen.
+Wie viel leichter es war, sich selbst zu ertragen, wenn jemand anderes einen nicht nur angesehen, sondern wirklich gesehen hat.
+Es ist ein Unterschied.
+Angesehen wird man oft.
+In der Stadt.
+Im Spiegel.
+Von Menschen, die kurz prüfen, ob man im Weg steht.
+Gesehen zu werden ist seltener.
+Gesehen werden heißt, dass jemand nicht nur die Umrisse erkennt.
+Nicht nur die Haltung.
+Nicht nur das, was man gerade zeigt.
+Sondern auch das, was man zu verstecken versucht.
+Und trotzdem bleibt.
+Vielleicht ist genau das der Teil, der so schwer in Worte passt.
+Nicht nur die Stimme.
+Nicht nur die Nähe.
+Nicht nur diese eine Person.
+Sondern dieses leise Gefühl, nicht beweisen zu müssen, dass man bleiben darf.
+Als hätte jemand eine Tür geöffnet, ohne zu fragen, was man dafür mitbringt.
+Ohne Eintritt.
+Ohne Tausch.
+Ohne Rechnung am Ende.
+Einfach so.
+Wie seltsam „einfach so“ klingen kann, wenn man es nicht gewohnt ist.
+Zuneigung ohne Bedingung fühlt sich an wie ein Geschenk, bei dem man ständig nach dem Preisschild sucht.
+Man dreht es in den Händen.
+Sucht die Ecke, an der steht, was man zurückgeben muss.
+Sucht den Haken.
+Die Pflicht.
+Die Gegenleistung.
+Und wenn man nichts findet, wird man nicht ruhiger.
+Man wird unsicher.
+Weil etwas in einem nicht glauben will, dass man gemeint sein könnte.
+Einfach nur gemeint.
+Nicht nützlich.
+Nicht passend.
+Nicht gerade bequem.
+Nur gemeint.
+Vielleicht vermisse ich genau das.
+Dieses Gefühl, für einen Moment nicht argumentieren zu müssen, warum ich da bin.
+Nicht leiser werden zu müssen.
+Nicht besser.
+Nicht einfacher.
+Nicht weniger.
+Nur da.
+Und trotzdem nicht zu viel.
+Ich glaube, manche Menschen sind wie Spiegel, aber nicht die kalten aus Glas.
+Eher wie Wasser bei Sonnenlicht.
+Man sieht sich darin nicht perfekt.
+Vielleicht sogar verzerrt.
+Aber irgendwie schöner.
+Sanfter.
+Erträglicher.
+Und irgendwann fängt man an zu glauben, dass diese Version von einem vielleicht wirklich existiert.
+Nicht, weil man sich selbst belügt.
+Sondern weil jemand anderes sie zuerst gesehen hat.
+Das ist gefährlich.
+Nicht böse gefährlich.
+Eher zerbrechlich gefährlich.
+Denn wenn dieses Wasser plötzlich fehlt, steht man wieder vor dem alten Spiegel.
+Dem ehrlichen vielleicht.
+Dem strengen.
+Dem, der nichts wärmer macht.
+Und dann fragt man sich, ob das Licht damals echt war.
+Oder ob man nur für eine Zeit lang Glück hatte.
+Ich weiß es nicht.
+Vielleicht war es beides.
+Vielleicht gibt es Dinge, die wahr sind, auch wenn sie nicht bleiben.
+Vielleicht kann etwas echt gewesen sein, ohne ewig zu sein.
+Dieser Gedanke hilft manchmal.
+Heute nicht besonders.
+Aber manchmal.
+Ich glaube, heute vermisse ich keinen lauten Moment.
+Kein großes Ereignis.
+Nichts, was man auf ein Foto schreiben würde.
+Ich vermisse eher das Dazwischen.
+Das kaum Sichtbare.
+Den Platz neben einem Satz.
+Das kleine Wissen, dass irgendwo jemand ist, der einen nicht nur duldet.
+Sondern mag.
+Ohne dass man vorher etwas leisten muss.
+Ohne vorher die richtige Version von sich auszusuchen.
+Ohne die oberen Knöpfe zu schließen, nur damit alles ordentlicher wirkt.
+Vielleicht ist das der Grund, warum manche Tage an den Rändern ausfransen.
+Weil nicht die Welt anders ist.
+Sondern der Blick, der sie einmal weicher gemacht hat.
+Und vielleicht schreibe ich deshalb hier.
+Weil manche Sätze nicht gelesen werden müssen, um gemeint zu sein.
+Weil manche Rätsel keine Lösung brauchen.
+Nur jemanden, der lange genug hinsieht.
+Und vielleicht ist genau das der Teil, den ich am wenigsten verstehe.
+Wie kann jemand etwas mögen, das man selbst kaum ansehen kann?
+Wie kann jemand bleiben, wenn man selbst am liebsten aus sich herausgehen würde?
+Es ist seltsam, von außen etwas geschenkt zu bekommen, das innen keinen Platz findet.
+Als würde jemand einem einen Spiegel hinhalten, in dem man nicht sofort wegsehen muss.
+Und trotzdem traut man dem Bild nicht.
+Nicht wirklich.
+Weil man sich selbst ja kennt.
+Oder zumindest glaubt, sich zu kennen.
+Die unschönen Gedanken.
+Die Unsicherheit.
+Die Fehler.
+Die Dinge, die man lieber versteckt, weil man hofft, dass niemand lange genug hinsieht, um sie zu finden.
+Und dann kommt jemand und sieht hin.
+Nicht kurz.
+Nicht aus Versehen.
+Sondern wirklich.
+Und geht trotzdem nicht.
+Ich glaube, das ist der Moment, in dem man nicht weiß, ob man dankbar sein soll oder Angst bekommen muss.
+Vielleicht beides.
+Weil es schön ist, gemocht zu werden.
+Aber auch schwer, wenn man selbst nicht versteht, warum.
 `, null)
 ];
 
