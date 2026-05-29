@@ -953,6 +953,39 @@ Ich glaube, das ist der Moment, in dem man nicht weiß, ob man dankbar sein soll
 Vielleicht beides.
 Weil es schön ist, gemocht zu werden.
 Aber auch schwer, wenn man selbst nicht versteht, warum.
+`, 17),
+createPage("Seite 17", `
+Heute wurde ich komplett zerstört.
+Wir hatten heute Geschichtskonsultation und meine Lehrerin hielt es offenbar für eine gute Idee, eine Prüfungssimulation zu machen.
+War es wahrscheinlich auch.
+Für mich fühlte es sich nur nicht ganz so an.
+Ich saß da und habe versucht, irgendwie einen sinnvollen Gedanken zu formulieren, während sie mit jeder Nachfrage ein weiteres kleines Loch in mein ohnehin schon sehr wackliges Konstrukt gebohrt hat.
+Es ist beeindruckend, wie schnell man sich wieder wie ein Schüler fühlen kann.
+Also nicht wie jemand, der kurz vor dem Ende der Schulzeit steht und eigentlich schon vieles hinter sich hat.
+Sondern wie jemand, der plötzlich merkt, dass er vielleicht doch nicht so vorbereitet ist, wie er gerne wäre.
+Ich glaube, sie wollte mir helfen.
+Und wahrscheinlich hat sie das auch.
+Aber in dem Moment fühlte es sich eher so an, als würde sie mich vorführen, ohne es böse zu meinen.
+Vielleicht ist das die effektivste Art der Vorbereitung.
+Einmal vorher auseinandernehmen, damit es später weniger weh tut.
+Trotzdem saß ich danach kurz da und musste überlegen, ob ich Geschichte überhaupt jemals verstanden habe.
+Wahrscheinlich übertreibe ich.
+Tue ich ja selten.
+Danach war ich unterwegs und musste beim Gehen ständig die Seite wechseln, weil ich meinen Gesprächspartner verstehen wollte, aber gleichzeitig einen Kopfhörer im Ohr hatte.
+Eigentlich keine besonders spannende Situation.
+Aber dabei ist mir eingefallen, dass du lieber auf der rechten Seite gegangen bist.
+Keine Ahnung, warum mir das wieder eingefallen ist.
+Ich glaube, ich musste kurz schmunzeln, weil es so eine unnötig spezifische Erinnerung ist.
+So etwas merkt man sich ja eigentlich nicht bewusst.
+Es bleibt einfach irgendwo hängen.
+Vielleicht hattest du dafür einen Grund.
+Vielleicht auch nicht.
+Vielleicht war es einfach Zufall und ich mache daraus schon wieder mehr als nötig.
+Wie immer.
+Einfach nur ein Gedanke, der kurz vorbeikam.
+Und dann war er auch schon wieder weg.
+Naja.
+Fast.
 `, null)
 ];
 
