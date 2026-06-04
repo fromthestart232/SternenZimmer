@@ -954,7 +954,7 @@ Vielleicht beides.
 Weil es schön ist, gemocht zu werden.
 Aber auch schwer, wenn man selbst nicht versteht, warum.
 `, 17),
-createPage("Seite 17", `
+  createPage("Seite 17", `
 Heute wurde ich komplett zerstört.
 Wir hatten heute Geschichtskonsultation und meine Lehrerin hielt es offenbar für eine gute Idee, eine Prüfungssimulation zu machen.
 War es wahrscheinlich auch.
@@ -986,6 +986,59 @@ Einfach nur ein Gedanke, der kurz vorbeikam.
 Und dann war er auch schon wieder weg.
 Naja.
 Fast.
+`, 18),
+  createPage("Seite 18", `
+Ich habe ziemlich lange nicht geschrieben.
+Ich weiß nicht warum.
+Eigentlich weiß ich auch nicht so recht, warum ich jetzt schreibe.
+Vielleicht, weil es sich komisch anfühlt, einfach aufzuhören.
+Nicht bewusst.
+Nicht mit einer Entscheidung.
+Eher so, als wäre man kurz aus dem Raum gegangen und hätte vergessen, wiederzukommen.
+Und jetzt steht man plötzlich wieder in der Tür und weiß nicht genau, ob man noch dazugehört.
+Komischer Gedanke.
+Ich glaube, genau so fühlt es sich gerade an.
+Diese Seite war für eine Zeit irgendwie selbstverständlich.
+Nicht unbedingt angenehm.
+Auch nicht immer hilfreich.
+Aber sie war da.
+Ein Ort, an dem ich Gedanken ablegen konnte, ohne sie jemandem wirklich geben zu müssen.
+Dann habe ich es ein paar Tage nicht gemacht.
+Und die Welt ist natürlich nicht untergegangen.
+Nichts ist passiert.
+Keine besondere Erkenntnis.
+Kein Moment, in dem plötzlich alles leichter wurde.
+Es war einfach stiller hier.
+Vielleicht war das gut.
+Vielleicht auch nicht.
+Ich weiß es ehrlich gesagt nicht
+Manchmal frage ich mich, ob Schreiben hilft oder ob es manche Dinge nur länger am Leben hält.
+Ob man Gedanken wirklich loswird, wenn man sie aufschreibt.
+Oder ob man ihnen damit nur ein Zuhause gibt.
+Und genau da weiß ich nicht, was besser ist.
+Tut es mir gut, diesen Gedanken und Gefühlen einen Raum zu bieten?
+Oder halte ich sie dadurch nur künstlich am Leben?
+Vielleicht ist es beides.
+Vielleicht ist dieser Ort nicht unbedingt eine Lösung, sondern eher ein Zimmer, in dem ich kurz ehrlich sein darf.
+Ohne irgendetwas erklären zu müssen.
+Ohne so zu tun, als wäre alles in Ordnung.
+Ohne zu behaupten, dass es mir gut geht, nur weil das die einfachere Antwort wäre.
+Ich glaube, genau das ist der Unterschied.
+Im Alltag kann man vieles überspielen.
+Man kann funktionieren.
+Reden.
+Lächeln.
+Sagen, dass alles passt.
+Und meistens reicht das auch, weil die Frage sowieso nicht wirklich eine Einladung ist, ehrlich zu antworten.
+Hier ist das anders.
+Hier muss ich nichts schöner machen, als es ist.
+Ich muss nicht sortiert klingen.
+Nicht vernünftig.
+Nicht weiter sein, als ich gerade bin.
+Vielleicht hilft es genau deshalb.
+Nicht, weil es etwas heilt.
+Sondern weil es für einen Moment aufhört, so tun zu müssen, als gäbe es nichts zu heilen.
+Und vielleicht ist das schon mehr, als ich dachte.
 `, null)
 ];
 
