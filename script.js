@@ -1039,6 +1039,67 @@ Vielleicht hilft es genau deshalb.
 Nicht, weil es etwas heilt.
 Sondern weil es für einen Moment aufhört, so tun zu müssen, als gäbe es nichts zu heilen.
 Und vielleicht ist das schon mehr, als ich dachte.
+`, 19),
+createPage("Seite 19", `
+Heute war eigentlich nichts los.
+Zumindest nichts, was von außen betrachtet besonders erwähnenswert wäre.
+Ich wollte für Geschichte lernen, weil die Prüfung langsam unangenehm nah kommt.
+Hat mittelmäßig funktioniert.
+Nicht, weil Geschichte plötzlich uninteressant wäre, sondern weil mein Kopf sich heute mal wieder für alles zuständig gefühlt hat, nur nicht für das, was eigentlich wichtig gewesen wäre.
+Irgendwann bin ich dann über einen Artikel in deinem WhatsApp-Status gestolpert.
+Am Wochenende war dieses Frühlingsfest, das du ein paar Tage vorher in deinem Status beworben hattest.
+Natürlich habe ich den Artikel gelesen.
+Was hätte ich auch sonst tun sollen?
+Er war wirklich schön geschrieben.
+Nicht übertrieben, nicht künstlich emotional, sondern einfach so, dass man verstanden hat, worum es eigentlich ging.
+Der Zweck wurde gut in Szene gesetzt.
+Und dann schrieb der Autor über eine junge Pflegerin und ihren wundervollen Umgang mit den Bewohnern.
+Wer sollte es sonst sein, wenn nicht du?
+Ich musste kurz lächeln.
+Nicht überrascht.
+Eher bestätigt.
+Es ist wirklich schön, wenn sogar Außenstehenden auffällt, wie sehr du deinen Job liebst.
+Und wie gut du darin bist.
+Ich glaube, manche Menschen machen ihren Beruf einfach nicht nur, weil es ihr Beruf ist.
+Sie füllen ihn aus.
+Nicht laut.
+Nicht, um gesehen zu werden.
+Sondern so selbstverständlich, dass es wahrscheinlich gerade deshalb auffällt.
+Bei dir wirkt das immer so.
+Als würdest du Menschen nicht nur versorgen, sondern wirklich wahrnehmen.
+Vielleicht ist genau das der Unterschied.
+Und vielleicht ist genau das auch der Grund, warum mich dieser Artikel so getroffen hat.
+Nicht negativ.
+Zumindest nicht nur.
+Es war schön, das zu lesen.
+Wirklich.
+Aber gleichzeitig wurde ich wieder daran erinnert, was ich alles verloren habe.
+Nicht nur irgendeine Person.
+Sondern einen Menschen, bei dem sogar fremde Leute nach kurzer Zeit merken, dass da etwas Besonderes ist.
+Und irgendwie bin ich ja selbst schuld, wenn ich mir so etwas durchlese.
+Niemand zwingt mich dazu.
+Ich hätte einfach weiterscrollen können.
+Habe ich aber nicht.
+Natürlich nicht.
+Stattdessen sitze ich dann da, lese diesen Artikel und merke, wie sich etwas in mir gleichzeitig freut und zusammenzieht.
+Ein ziemlich dummes Gefühl.
+Aber vielleicht ist genau das gerade mein Problem.
+Dass ich mich über schöne Dinge für dich freuen kann und sie mir trotzdem wehtun.
+Weil sie mir zeigen, dass dein Leben weitergeht.
+Nicht böse.
+Nicht gegen mich.
+Einfach weiter.
+Und ich sitze hier und sollte eigentlich Geschichte lernen.
+Stattdessen lese ich einen Artikel über dich und frage mich, warum ich mir selbst immer wieder solche kleinen Schnitte zufüge.
+Vielleicht, weil ich noch nicht gelernt habe, wegzusehen.
+Oder weil ein Teil von mir das gar nicht will.
+Ich weiß es nicht.
+Ich weiß nur, dass ich heute wieder daran erinnert wurde, wie viel Gutes in dir steckt.
+Und wie sehr ich hoffe, dass du das selbst auch siehst.
+Vielleicht sogar so klar, wie es ein fremder Autor in ein paar Zeilen gesehen hat.
+Ich glaube, das reicht für heute.
+Geschichte läuft mir nicht weg.
+Leider.
 `, null)
 ];
 
