@@ -1100,6 +1100,80 @@ Vielleicht sogar so klar, wie es ein fremder Autor in ein paar Zeilen gesehen ha
 Ich glaube, das reicht für heute.
 Geschichte läuft mir nicht weg.
 Leider.
+`, 20),
+createPage("Seite 20", `
+Die Schule ist vorbei.
+Eigentlich sollte ich mich darüber freuen.
+Keine nervigen Aufgaben mehr, bei denen man sich schon während des Lesens fragt, welchen Sinn sie eigentlich haben sollen.
+Kein frühes Aufstehen.
+Keine Stunden, die sich deutlich länger anfühlen, als sie tatsächlich sind.
+Eigentlich genau das, worauf man die ganze Zeit gewartet hat.
+Und trotzdem fühlt es sich nicht so an, wie ich es erwartet hatte.
+Vielleicht, weil mit den Dingen, die man loswerden wollte, auch etwas verschwunden ist, dessen Bedeutung man vorher nicht wirklich wahrgenommen hat.
+Menschen, die ich jeden Tag gesehen habe, sind plötzlich einfach nicht mehr da.
+Nicht wirklich verschwunden natürlich.
+Aber aus meinem Alltag.
+Aus dieser Selbstverständlichkeit, sich morgens zu sehen, zwischendurch irgendetwas Belangloses zu erzählen und am nächsten Tag einfach dort weiterzumachen.
+Ich dachte, das wäre mir egal.
+Ich glaube sogar, dass ich ziemlich fest davon überzeugt war.
+Jetzt bin ich mir da nicht mehr so sicher.
+Es ist seltsam, wie schnell etwas endet, das zwölf Jahre lang beinahe jeden Tag bestimmt hat.
+Kein wirklicher Abschied.
+Kein Moment, in dem plötzlich alles anders aussieht.
+Man geht einfach ein letztes Mal nach Hause und merkt vielleicht erst später, dass man nicht mehr zurückkommt.
+Ich habe jetzt mehr freie Zeit, aber weniger Orte, an denen ich automatisch auf andere Menschen treffe.
+Keine nervigen und uninteressanten Aufgaben mehr.
+Aber irgendwie auch kein richtiges soziales Leben mehr.
+Vielleicht klingt das dramatischer, als es ist.
+Wahrscheinlich wird sich etwas Neues ergeben.
+Neue Abläufe.
+Neue Menschen.
+Neue Dinge, über die ich mich beschweren kann.
+Aber gerade fühlt es sich eher an, als wäre ein Kapitel zu Ende gegangen, ohne dass das nächste schon angefangen hat.
+Und dann ist da noch etwas anderes.
+In letzter Zeit habe ich ein paar Bilder und Posts von dir gesehen.
+Du wirkst glücklich.
+Und es freut mich wirklich sehr, das zu sehen.
+Ich hoffe, du weißt, dass ich stolz auf dich bin.
+Auch wenn ich wahrscheinlich nicht mehr die Person bin, von der du das hören möchtest oder hören musst.
+Trotzdem bin ich es.
+Vielleicht gerade deshalb, weil ich weiß, dass vieles für dich nicht immer leicht war.
+Es ist schön zu sehen, dass du dir etwas aufbaust.
+Dass du deinen Weg gehst.
+Dass du Orte und Menschen hast, bei denen du dich offenbar wohlfühlst.
+Aber zwischen dieser Freude sitzt leider noch ein anderer Gedanke.
+Einer, den ich nicht besonders gerne zu Ende denke.
+Ich frage mich, ob ich dich von diesem Glück vielleicht manchmal abgehalten habe.
+Nicht bewusst.
+Zumindest hoffe ich das.
+Aber vielleicht habe ich Dinge nicht bemerkt.
+Vielleicht war ich zu sehr mit meinen eigenen Unsicherheiten beschäftigt, um zu erkennen, wann du etwas gebraucht hättest, das ich dir nicht geben konnte.
+Oder wann meine Nähe für dich nicht nur schön, sondern auch schwer war.
+Ich weiß nicht, ob das so gewesen ist.
+Vielleicht rede ich mir das gerade auch nur ein, weil mein Kopf für alles irgendeine Erklärung und am liebsten auch einen Schuldigen finden möchte.
+Und wer wäre dafür geeigneter als ich selbst?
+Trotzdem möchte ich den Gedanken nicht einfach wegschieben.
+Falls ich dich in irgendeiner Weise kleiner gemacht, zurückgehalten oder mit meinen eigenen Problemen belastet habe, ohne es zu bemerken, tut mir das leid.
+Nicht als Versuch, eine Antwort oder Vergebung zu bekommen.
+Und auch nicht, um dir im Nachhinein noch eine Verantwortung für mein Gewissen zu geben.
+Ich wollte es nur einmal ehrlich ausgesprochen haben.
+Vielleicht kann man jemanden lieben und ihm trotzdem nicht immer guttun.
+Der Gedanke gefällt mir nicht.
+Aber vermutlich wird er nicht unwahrer, nur weil man ihn nicht mag.
+Ich hoffe, dass ich dir auch schöne Dinge gegeben habe.
+Dass nicht alles schwer war.
+Dass du dich nicht nur an meine Unsicherheit erinnerst, sondern vielleicht auch an einzelne Momente, in denen du dich bei mir wohlgefühlt hast.
+Ich weiß nicht, ob ich das verdient habe.
+Aber ich hoffe es.
+Vor allem hoffe ich, dass du heute glücklich bist, ohne dabei noch irgendetwas aus unserer Zeit mit dir herumtragen zu müssen.
+Und falls ich ein Teil von etwas war, das dich damals belastet hat, hoffe ich, dass du mir irgendwann verzeihen konntest.
+Vielleicht sogar, ohne bewusst darüber nachdenken zu müssen.
+Ich versuche das bei mir selbst noch.
+Funktioniert bisher eher mäßig.
+Aber vielleicht beginnt nach dem Ende der Schule nicht nur irgendein neuer Lebensabschnitt.
+Vielleicht ist es auch eine Gelegenheit, endlich zu lernen, sich selbst etwas ehrlicher anzusehen.
+Nicht nur, um Fehler zu finden.
+Sondern vielleicht auch, um irgendwann nicht mehr dieselben zu machen.
 `, null)
 ];
 
