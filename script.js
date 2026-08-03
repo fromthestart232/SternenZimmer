@@ -1174,6 +1174,53 @@ Aber vielleicht beginnt nach dem Ende der Schule nicht nur irgendein neuer Leben
 Vielleicht ist es auch eine Gelegenheit, endlich zu lernen, sich selbst etwas ehrlicher anzusehen.
 Nicht nur, um Fehler zu finden.
 Sondern vielleicht auch, um irgendwann nicht mehr dieselben zu machen.
+`, 21),
+createPage("Seite 21", `
+Über einen Monat ist es her, dass ich das letzte Mal geschrieben habe.
+Jetzt hat es mich wieder eingeholt und ich muss es einfach wieder tun.
+Vielleicht, um mich besser zu fühlen.
+Vielleicht auch einfach, um alles, was mir so im Kopf herumschwirrt, irgendwo loszuwerden.
+Mit wem teile ich das hier eigentlich?
+Das weiß ich leider nicht.
+Aber es fühlt sich besser an. Fast so, als würde man seine Gedanken einfach laut in die Welt rufen.
+Warum aber genau heute?
+Weil ich mich entschuldigen muss.
+Vor allem bei dir, aber auch bei einer Menge anderer Menschen, denen ich in letzter Zeit Unrecht getan habe.
+Ich glaube, ich muss etwas ausholen.
+Ich bin in letzter Zeit ziemlich unglücklich und habe leider mehrfach zugelassen, dass diese Unzufriedenheit Menschen beeinflusst, die überhaupt nichts dafür können.
+Nicht zuletzt auch dich.
+Ich habe es nicht geschafft, dich zu begrüßen oder mich angemessen von dir zu verabschieden.
+Das tut mir wirklich leid und war einfach nur erbärmlich von mir.
+Ich will und ich kann das nicht rechtfertigen.
+Du kennst diesen ständigen Kampf zwischen Herz und Kopf wahrscheinlich besser als ich oder als alle anderen, die das hier lesen.
+Vielleicht spielt meine eher zurückhaltende Art dabei auch eine Rolle.
+Es ist nur so, dass ich dich nicht vergessen kann und das auch überhaupt nicht will.
+Und dann wird mir gleichzeitig immer wieder bewusst, dass du mich wahrscheinlich längst vergessen hast.
+Die logische Reaktion des Kopfes wäre wohl, es einfach gut sein zu lassen.
+Aber genau das ist nicht das, was ich will.
+Ich will dich.
+Aber dafür ist es vermutlich längst zu spät.
+Vielleicht hätte ich es nicht einmal geschafft, einfach nur „Hallo“ zu sagen.
+Nicht, weil dieses Wort so schwer ist, sondern weil du in meinen Augen kein Mensch bist, dem man einfach nur „Hallo“ sagt.
+Aber nicht einmal das habe ich hinbekommen.
+Ich hätte dir gerne ein Kompliment gemacht.
+Aber ich bin wahrscheinlich der Letzte, von dem du so etwas hättest hören wollen.
+Ich möchte aber auch nicht über irgendwelche möglichen Ausgänge philosophieren.
+Das wären am Ende nur Worte.
+Und du hast mir einmal sehr deutlich gezeigt, dass Taten für dich mehr bedeuten als Worte.
+Nur sind Worte im Moment alles, was mir bleibt.
+Ziemlich feige von mir.
+Die Angst vor Ablehnung ist, wie so oft, größer als alles andere.
+Das, was heute passiert ist, kann ich nicht mehr rückgängig machen.
+Trotzdem möchte ich dir noch sagen, dass du heute mal wieder bezaubernd aussahst.
+Ich würde gerne noch so viel mehr sagen.
+Aber ich glaube, dass du das vermutlich gar nicht hören möchtest.
+Bitte nimm dir das alles nicht zu Herzen.
+Du hast nichts falsch gemacht.
+Du kannst nichts dafür, dass ich im Moment unglücklich bin.
+Das ist ganz allein mein Kampf.
+Ich hoffe nur, dass du mir diesen Moment irgendwie verzeihen kannst.
+Gute Nacht.
 `, null)
 ];
 
