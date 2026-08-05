@@ -1221,6 +1221,74 @@ Du kannst nichts dafür, dass ich im Moment unglücklich bin.
 Das ist ganz allein mein Kampf.
 Ich hoffe nur, dass du mir diesen Moment irgendwie verzeihen kannst.
 Gute Nacht.
+`, 22),
+createPage("Seite 22", `
+**Letzte Seite**
+
+Ich habe lange darüber nachgedacht, wie diese Seite anfangen soll.
+Vielleicht, weil ich nie gedacht hätte, dass ich sie überhaupt schreiben würde.
+So oft habe ich hier Fragen gestellt, auf die keine Antwort kam.
+Nicht, weil ich sie erwartet hätte.
+Sondern weil es sich richtig angefühlt hat, sie irgendwo festzuhalten.
+Und jetzt sitze ich wieder hier.
+Vor derselben Seite.
+Derselben Tastatur.
+Mit denselben Händen.
+Nur fühlen sie sich heute irgendwie leichter an.
+Komisch eigentlich.
+Über all die Zeit habe ich versucht, Worte für Dinge zu finden, die sich nie wirklich in Worte fassen ließen.
+Ich habe Erinnerungen festgehalten, Gedanken sortiert und mich selbst so oft hinterfragt, dass ich irgendwann gar nicht mehr wusste, ob ich überhaupt noch nach Antworten suche oder nur noch versuche, nichts zu vergessen.
+Vielleicht war genau das der Sinn davon.
+Nicht Antworten zu finden.
+Sondern durchzuhalten.
+Heute weiß ich etwas, das ich damals nicht wusste.
+Manchmal schreibt das Leben doch noch eine Seite, mit der man längst aufgehört hatte zu rechnen.
+Und genau deshalb soll das hier die letzte sein.
+Nicht, weil es nichts mehr zu sagen gäbe.
+Sondern weil ich endlich nicht mehr alles aufschreiben muss.
+Ich habe dir in diesen Seiten so oft gedankt.
+Für kleine Dinge.
+Für Erinnerungen.
+Für Momente, die für andere vermutlich völlig bedeutungslos gewesen wären.
+Heute möchte ich dir einfach nur dafür danken, dass du wieder da bist.
+Ich glaube nicht, dass Worte beschreiben können, wie viel mir das bedeutet.
+Sie haben es vorher nicht geschafft.
+Warum sollten sie es jetzt können?
+Ich weiß nur, dass etwas, das sich lange unvollständig angefühlt hat, plötzlich wieder vollständig wirkt.
+Nicht perfekt.
+Aber echt.
+Und vielleicht ist das ohnehin viel schöner.
+Ich habe mich in diesen Monaten oft gefragt, ob manche Menschen nur für einen Abschnitt unseres Lebens bestimmt sind.
+Heute hoffe ich einfach, dass ich mich geirrt habe.
+Mehr wünsche ich mir gerade gar nicht.
+Wenn ich die ersten Seiten heute lese, erkenne ich mich darin wieder.
+Ich erkenne jeden Gedanken, jede Unsicherheit und jede schlaflose Nacht.
+Und trotzdem fühlt es sich an, als hätte jemand langsam das Licht wieder eingeschaltet.
+Nicht auf einmal.
+Ganz vorsichtig.
+So, dass man erst nach einer Weile merkt, dass der Raum längst nicht mehr dunkel ist.
+Vielleicht ist genau das Hoffnung.
+Oder Glück.
+Ich weiß es nicht.
+Ich weiß nur, dass ich unglaublich dankbar bin.
+Danke.
+Dafür, dass du mich damals gesehen hast.
+Dafür, dass du mir mehr gegeben hast, als dir vermutlich jemals bewusst war.
+Und dafür, dass du heute wieder Teil meines Lebens bist.
+Diese Seite sollte eigentlich immer ein Ort für Gedanken sein, die nirgendwo anders hin konnten.
+Jetzt haben sie ihren Platz gefunden.
+Vielleicht brauche ich sie deshalb nicht mehr.
+Nicht, weil ich vergessen möchte.
+Sondern weil ich endlich wieder erleben möchte.
+Ohne ständig zurückzuschauen.
+Falls ich irgendwann doch noch einmal das Bedürfnis haben sollte, hier etwas zu schreiben, hoffe ich, dass es einfach eine schöne Geschichte ist.
+Keine, die aus Vermissen entstanden ist.
+Sondern aus gemeinsamen Erinnerungen, über die man irgendwann lächeln kann.
+Ich glaube, das wäre das schönste Ende.
+Oder vielleicht ist es gar kein Ende.
+Vielleicht ist es einfach nur der erste Satz eines neuen Kapitels.
+Danke.
+Für alles.
 `, null)
 ];
 
