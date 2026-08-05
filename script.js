@@ -1223,8 +1223,6 @@ Ich hoffe nur, dass du mir diesen Moment irgendwie verzeihen kannst.
 Gute Nacht.
 `, 22),
 createPage("Seite 22", `
-**Letzte Seite**
-
 Ich habe lange darüber nachgedacht, wie diese Seite anfangen soll.
 Vielleicht, weil ich nie gedacht hätte, dass ich sie überhaupt schreiben würde.
 So oft habe ich hier Fragen gestellt, auf die keine Antwort kam.
