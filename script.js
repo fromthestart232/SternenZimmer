@@ -1287,6 +1287,59 @@ Oder vielleicht ist es gar kein Ende.
 Vielleicht ist es einfach nur der erste Satz eines neuen Kapitels.
 Danke.
 Für alles.
+`, 23),
+createPage("Seite 23", `
+Heute ist dieser Tag.
+Ein seltsamer Anfang, wenn man nicht gerade, so wie ich, den Absatz davor gelesen hat.
+Aber enttäuschenderweise folgt jetzt keine schöne Geschichte und auch nichts Vergleichbares, denn das Leben ist kein Disney-Film.
+Es ist einfach nur ein weiterer Tag. Nichts Besonderes. Nur ein paar Gedanken, die sonst keinen Platz haben.
+Mir ist eingefallen, dass es sein könnte, dass ich meinen GitHub-Account für das Studium brauche. Und da diese Seite hier über meinen GitHub-Account zu finden ist, wird sie das ab dem 01.10.2026 wahrscheinlich nicht mehr sein.
+Das wäre wohl ziemlich unprofessionell.
+Aber das soll mir heute Nacht noch egal sein.
+Ich bin unglaublich ungeduldig.
+Seit über einer Woche warte ich.
+Aber worauf eigentlich?
+Vielleicht kannst du es mir sagen. Wahrscheinlich aber auch nicht.
+Ich habe noch so viele Fragen. Und weil ich sie dir vermutlich niemals stellen werde, schreibe ich sie jetzt ganz schamlos hier auf.
+Ich würde dich damit nicht belasten wollen. Du hast vermutlich selbst genug um die Ohren und kannst das alles gerade nicht gebrauchen.
+Trotzdem frage ich mich:
+Warum hast du mir wieder geschrieben?
+Warum hast du mich wieder in dein Leben gelassen?
+Warum hast du mir wieder Hoffnung gemacht?
+Warum hast du mir nicht einfach gesagt, dass du mich nicht mehr sehen möchtest, anstatt mich immer wieder zu vertrösten?
+An meiner Situation hat sich kaum etwas geändert. An deiner vermutlich auch nicht.
+Warum also diese plötzliche Nähe?
+Für die letzte Frage muss ich etwas weiter ausholen.
+Die Nachricht, die du mir zu meinem Geburtstag geschickt hast, war mit Abstand das schönste Geschenk, das ich je bekommen habe.
+Nicht nur, weil sie an diesem Tag die einzige Nachricht war, die nicht von einem Familienmitglied kam, sondern vor allem, weil sie mir das Gefühl gegeben hat, dass du wirklich an mich gedacht hast.
+Und vielleicht gerade deshalb tut es mir so weh, dass diese Nachricht inzwischen einen Teil ihrer Schönheit für mich verloren hat.
+Ich möchte dir nicht unterstellen, dass du gelogen hast. Dafür erschien mir das, was du geschrieben hast, viel zu ehrlich.
+Aber ich verstehe nicht, wie ein Mensch bei etwas, das sich so bedeutend angefühlt hat, innerhalb einer einzigen Woche seine Meinung so sehr ändern kann.
+Ich verstehe es wirklich nicht.
+Vielleicht habe ich deshalb auf eine Nachricht von dir gewartet.
+Nicht einmal unbedingt auf die Nachricht, die ich mir gewünscht hätte.
+Nur auf irgendeine Erklärung.
+Auf etwas, das mir geholfen hätte zu verstehen.
+Aber diese Nachricht kam nicht.
+Und ich frage mich, wie man sich fühlen soll, wenn man sogar von einem der offensten und großherzigsten Menschen, die man kennt, Ablehnung erfährt.
+Eigentlich bin ich Ablehnung gewohnt. Vielleicht bin ich sogar an einem Punkt angekommen, an dem sie mich nicht mehr besonders überraschen sollte.
+Aber von dir hätte ich sie nicht erwartet.
+Zumindest nicht auf diese Weise.
+Vielleicht habe ich mehr in all dem gesehen, als tatsächlich da war.
+Oder vielleicht habe ich einfach gehofft, dass da mehr sein könnte.
+Ich weiß es nicht.
+Und wahrscheinlich werde ich es auch nie erfahren.
+Vielleicht ist genau das der Teil, den ich akzeptieren muss.
+Dass nicht jede Frage eine Antwort bkommt.
+Dass nicht jede Hoffnung erfüllt wird.
+Und dass etwas trotzdem schön gewesen sein kann, auch wenn es nicht so endet, wie man es sich gewünscht hätte.
+Dein Verhalten hat nicht verändert, wie ich dich als Menschen sehe. Du bist in meinen Augen noch immer ein wundervoller Mensch.
+Vielleicht macht genau das die Sache so schwer.
+Aber ich möchte nicht länger auf eine Erklärung warten, die vielleicht niemals kommt.
+Nicht, weil es mir plötzlich egal wäre.
+Sondern weil ich irgendwann lernen muss, auch mit offenen Fragen weiterzugehen.
+Ich wünsche dir alles Gute für die Zukunft.
+Und vor allem wünsche ich dir, dass du glücklich wirst.
 `, null)
 ];
 
