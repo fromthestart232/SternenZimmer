@@ -1,64 +1,147 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta http-equiv="Content-Security-Policy"
 content="
 default-src 'self';
-script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net;
-style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
-font-src 'self' https://fonts.gstatic.com;
+script-src 'self';
+style-src 'self' https://fonts.googleapis.com;
+font-src https://fonts.gstatic.com;
 img-src 'self' data:;
-connect-src 'self'
-https://yaecvybfldlcdgzyokep.supabase.co
-https://cdn.jsdelivr.net
-ws://127.0.0.1:3001;
 media-src 'self';
+connect-src https://yaecvybfldlcdgzyokep.supabase.co;
+object-src 'none';
+base-uri 'self';
+form-action 'none';
 ">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#060b17">
   <title>Für dich</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
 
   <!-- SCHRIFT -->
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400..600;1,400..600&display=swap">
 
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css">
 
-  <!-- SUPABASE -->
-  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-
+  <script src="pages.js" defer></script>
+  <script src="script.js" defer></script>
 </head>
 
 <body>
+  <svg hidden>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 2c.5 5.3 4.7 9.5 10 10-5.3.5-9.5 4.7-10 10-.5-5.3-4.7-9.5-10-10 5.3-.5 9.5-4.7 10-10z"/></symbol>
+    <symbol id="i-list" viewBox="0 0 24 24"><path d="M9 6h11M9 12h11M9 18h11M4.5 6h.01M4.5 12h.01M4.5 18h.01"/></symbol>
+    <symbol id="i-sound-on" viewBox="0 0 24 24"><path d="M11 5 6 9H3v6h3l5 4V5z"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/></symbol>
+    <symbol id="i-sound-off" viewBox="0 0 24 24"><path d="M11 5 6 9H3v6h3l5 4V5z"/><path d="m16 9.5 5 5m0-5-5 5"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></symbol>
+  </svg>
 
-  <canvas id="stars"></canvas>
-  <div id="reply-blur" class="reply-blur hidden"></div>
+  <canvas id="stars" class="stars" aria-hidden="true"></canvas>
 
   <!-- MUSIK -->
-  <audio id="music" loop>
-    <source src="music.mp3" type="audio/mpeg">
-  </audio>
+  <audio id="music" src="music.mp3" loop preload="none"></audio>
 
-  <div class="top-bar">
-    <p class="page-number" id="page-number"></p>
-    <div class="top-controls">
-      <p class="skip hidden" id="skip">Zur nächsten Seite</p>
-      <p class="skip" id="prev">Zur letzten Seite</p>
+  <div class="progress" aria-hidden="true"><div class="progress__bar" id="progress-bar"></div></div>
+
+  <header class="topbar">
+    <button type="button" class="chip" id="toc-open" aria-haspopup="dialog" aria-controls="toc" title="Alle Seiten">
+      <svg class="icon" aria-hidden="true"><use href="#i-list"/></svg>
+      <span class="sr-only">Alle Seiten, aktuell Seite</span>
+      <span id="page-number"></span>
+    </button>
+
+    <div class="topbar__end">
+      <nav class="pagenav" id="pagenav" aria-label="Seiten">
+        <button type="button" class="pill" id="prev" hidden>Zur letzten Seite</button>
+        <button type="button" class="pill pill--accent" id="skip" hidden>Zur nächsten Seite</button>
+      </nav>
+
+      <button type="button" class="icon-btn sound" id="sound-toggle" aria-pressed="true" aria-label="Musik">
+        <svg class="icon icon--on" aria-hidden="true"><use href="#i-sound-on"/></svg>
+        <svg class="icon icon--off" aria-hidden="true"><use href="#i-sound-off"/></svg>
+      </button>
     </div>
-  </div>
+  </header>
 
-  <div class="content">
-    <div class="envelope hidden"></div>
-    <p class="tap">Tippe</p>
-  </div>
+  <main class="reader" id="reader" data-phase="intro">
+    <button type="button" class="pill pill--accent next-line sr-only-focusable" id="next-line">Nächster Satz</button>
 
-  <!-- ANTWORT-BEREICH (nur auf Seite 12) -->
-  <div id="reply-box" class="reply-box hidden">
-    <textarea id="reply" placeholder="wenn du etwas sagen möchtest ..."></textarea>
-    <br>
-    <button id="send-btn">Senden</button>
-  </div>
+    <article class="letter" aria-labelledby="page-title">
+      <header class="letter__head">
+        <svg class="letter__star" aria-hidden="true"><use href="#i-star"/></svg>
+        <h1 class="letter__title" id="page-title" tabindex="-1"></h1>
+      </header>
 
-  <script src="script.js"></script>
+      <div class="intro">
+        <button type="button" class="pill pill--ghost" id="resume" hidden>
+          <span id="resume-label"></span>
+          <svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg>
+        </button>
+      </div>
+
+      <p class="tap" aria-hidden="true">
+        <span class="tap__dot"></span>
+        <span class="tap__label">Tippe</span>
+        <span class="tap__hint">oder Leertaste</span>
+      </p>
+
+      <div class="letter__body" id="letter-body" aria-live="polite"></div>
+
+      <footer class="letter__end" id="letter-end" hidden>
+        <div class="divider" aria-hidden="true"><svg class="icon"><use href="#i-star"/></svg></div>
+
+        <!-- ANTWORT-BEREICH (Seiten aus replyPages in pages.js) -->
+        <form class="reply" id="reply-box" hidden>
+          <label class="reply__label" for="reply">Anonym antworten</label>
+          <textarea class="reply__field" id="reply" name="text" rows="5" maxlength="500"
+            placeholder="wenn du etwas sagen möchtest ..." aria-describedby="reply-count"></textarea>
+          <div class="reply__meta">
+            <span class="reply__count" id="reply-count"></span>
+            <button type="submit" class="pill pill--accent" id="send-btn" disabled>Senden</button>
+          </div>
+          <p class="reply__status" id="reply-status" role="status"></p>
+        </form>
+
+        <div class="end-actions">
+          <button type="button" class="pill pill--accent pill--lg" id="end-next">
+            <span id="end-next-label">Zur nächsten Seite</span>
+            <svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg>
+          </button>
+          <button type="button" class="pill pill--ghost pill--lg" id="end-toc">Alle Seiten</button>
+        </div>
+      </footer>
+    </article>
+  </main>
+
+  <dialog class="sheet" id="toc" aria-labelledby="toc-title">
+    <div class="sheet__inner">
+      <header class="sheet__head">
+        <h2 class="sheet__title" id="toc-title">Alle Seiten</h2>
+        <button type="button" class="icon-btn" id="toc-close" aria-label="Schließen">
+          <svg class="icon" aria-hidden="true"><use href="#i-close"/></svg>
+        </button>
+      </header>
+
+      <label class="setting">
+        <span class="setting__text">
+          <span class="setting__label">Zeile für Zeile</span>
+          <span class="setting__desc">Jeder Satz erscheint erst nach einem Tippen.</span>
+        </span>
+        <input type="checkbox" class="switch" id="pref-stepwise" role="switch" checked>
+      </label>
+
+      <ol class="toc-list" id="toc-list"></ol>
+    </div>
+  </dialog>
+
+  <noscript><p class="noscript">Diese Seite braucht JavaScript, um die Texte anzuzeigen.</p></noscript>
 </body>
 </html>
 
