@@ -1337,5 +1337,41 @@ Ich wünsche dir alles Gute für die Zukunft.
 Und vor allem wünsche ich dir, dass du glücklich wirst.
 `, 24),
 createPage("Seite 24", `
+  23.
+  So vieele Seiten waren es bis hierhin.
+  23 ist meine Lieblingszahl.
+  Sie ist zusammen mit der Zahl 239 die einzige positive ganze Zahl, die nicht als Summe von 8 nichtnegativen Würfeln darstellbar ist.
+  Und ihre Fakultät ist 25852016738884976640000, eine Zahl mit 23 Ziffern.
+  Vielleicht erinnerst du dich daran, dass ich es dir mal erzählt habe.
+  Was ist aber mein Anlass heute zu schreiben?
+  Ich will nicht von meinem Tag erzählen, und eigentlich auch nicht von meinen Gedanken.
+  Ich habe keinen Grund unglücklich zu sein, und trotzdem bin ich es.
+  Es ist nicht so, dass ich nicht dankbar für alles bin, was ich habe, aber trotzdem hat man nur die Dinge vor Augen, die man nicht hat.
+  Dieses Gefühl ist nicht neu, aber es ist immer wieder schwer, damit umzugehen.
+  Tagsüber ist es noch erträglich, aber nachts, wenn man alleine ist, wird es schwer.
+  Aber ich könnte nicht in einem klaren Satz formulieren, was genau mir fehlt.
+  Es geht vermutlich viele Menschen so, dass sie nicht genau wissen, was ihnen fehlt.
+  Aber wie soll man etwas finden, wenn man nicht einmal weiß, wonach man sucht?
+  Ich habe keine Ahnung, wie ich das ändern kann.
+  Aber was ich geändert habe ist das Overlay dieser Seite.
+  Ich finde es ist relativ gut geworden, aber ich habe noch ein paar Ideen, die ich in den nächsten Tagen umsetzen könnte.
+  Ich habe auch ein paar Features umgesetzt, die ich schon länger umsetzen wollte, aber nie die Zeit dafür gefunden habe.
+  Ich könnte ewig darüber reden, aber ich glaube, das würde niemanden interessieren.
+  Ich habe auch die gesammte Seite für Heiko (Imker) überarbeitet, weil ich es einfach nicht mehr ertragen konnte, dass sie so aussieht, wie sie aussieht.
+  (Beestrong.biz)
+  Da ist noch etwas, was ich noch formulieren sollte, mich aber schon wieder davon ablenke.
+  Ich denke sehr oft an dich, fast schon ein ungesundes Maß, aber ich kann es nicht verhindern, und wenn ich ehrlich bin, will ich es auch nicht.
+  Andere würden mich dafür belächeln und mir das Gefühl geben wieder einmal der Clown zu sein.
+  Villeicht rede ich deshalb mit niemandem über solche Dinge. 
+  Sie würden es sowieso nicht verstehen.
+  Auf Verständnis trifft man meiner Erfahrung nach nur selten.
+  Ich habe keine Ahnung, wie ich das ändern kann.
+  Villeicht übertreibe ich.
+  Wie geht es dir?
+  Wie gefällt dir die Ausbildung bisher?
+  Es wird keine Antwort geben, aber so fühlt es sich so an, als hätte ich es versucht.
+  Feige, aber ich habe es versucht.
+  Naja, wie auch immer.
+  Gute Nacht.
 `, null)
 ];
