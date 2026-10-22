@@ -1335,5 +1335,7 @@ Nicht, weil es mir plötzlich egal wäre.
 Sondern weil ich irgendwann lernen muss, auch mit offenen Fragen weiterzugehen.
 Ich wünsche dir alles Gute für die Zukunft.
 Und vor allem wünsche ich dir, dass du glücklich wirst.
+`, 24),
+createPage("Seite 24", `
 `, null)
 ];

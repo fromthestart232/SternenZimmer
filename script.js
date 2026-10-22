@@ -257,7 +257,8 @@
       cancelAnimationFrame(fadeFrame);
       const startTime = performance.now();
       const tick = now => {
-        const progress = Math.min((now - startTime) / MUSIC_FADE_MS, 1);
+        // Der Frame-Zeitstempel kann minimal vor startTime liegen.
+        const progress = Math.min(Math.max((now - startTime) / MUSIC_FADE_MS, 0), 1);
         audio.volume = MUSIC_VOLUME * progress;
         if (progress < 1 && !audio.paused) fadeFrame = requestAnimationFrame(tick);
       };
@@ -445,7 +446,8 @@
   function start(origin) {
     store.set("lastPage", state.index);
     setPhase("reading");
-    if (stepwise) {
+    // Eine Seite ohne Zeilen ist sofort zu Ende.
+    if (stepwise && currentPage().steps.length > 0) {
       revealNext(origin);
     } else {
       revealAll();
