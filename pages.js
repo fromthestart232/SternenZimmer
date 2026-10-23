@@ -1373,5 +1373,21 @@ createPage("Seite 24", `
   Feige, aber ich habe es versucht.
   Naja, wie auch immer.
   Gute Nacht.
+`, 25),
+createPage("Seite 25", `
+  Und sie sollten damit recht behalten.
+  Ich will so nicht mehr sein. 
+  Das ist erbärmlich. 
+  Heute soll Tag 1 sein.
+  Ich will einen kompletten Neuanfang.
+  Ich will mir selbst genug sein, egal, wie fremde Reaktionen aussehen.
+  Das hier ist der Anfang und zugleich das Ende dieser Seiten, welche geprägt sind von Selbstzweifel, Unsicherheit und Angst.
+  Ich will mich nicht mehr von anderen Menschen abhängig machen.
+  Ich will nicht mehr krampfhaft versuchen, mich zu beweisen, um von anderen Menschen gemocht zu werden.
+  Ich will nicht mehr versuchen, mich zu verstellen, um von anderen Menschen akzeptiert zu werden.
+  25 Seiten Elend finden hier ihr Ende.
+  Andere Menschen sind in jedem Fall temporär, aber man selbst ist immer da.
+  Das hier ist kein "Neujahresvorsatz", sondern ein Versprechen an mich selbst.
+  Und ich weiß auch schon genau, wo ich anfange. 
 `, null)
 ];
